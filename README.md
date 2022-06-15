@@ -1,1421 +1,1421 @@
 en : new_home.title
-CodeCombat - Coding games to learn Python and JavaScript
+Ozaria - Computer science that captivates
 en : new_home.meta_keywords
-CodeCombat, python, javascript, Coding Games
+CodeCombat, python, javascript, Coding Games, Computer Science Program, Adventure, Epic Story
 en : new_home.meta_description
-Learn typed code through a programming game. Learn Python, JavaScript, and HTML as you solve puzzles and learn to make your own coding games and websites.
+Ozaria is a computer science program, an adventure game, and a fantasy story where students master the lost magic of coding to save their world.
 en : new_home.featured_partners_blurb1
-Clever Partner
+CollegeBoard Endorsed Provider
 en : new_home.for_leaders_subblurb3
-Whether you want to build a Middle School coding elective, a CTE pathway, or are teaching an Intro to CS class, CodeCombat is tailored to suit your needs.
+Whether you want to build a Middle School coding elective, a CTE pathway, or an AP Computer Science Principles class, CodeCombat is tailored to suit your needs.
 en : new_home.quotes_quote1
-Name any program online, I’ve tried it. None of them match up to CodeCombat & Ozaria. Any teacher who wants their students to learn how to code... start here!
+Name any program online, I’ve tried it. None of them match up to CodeCombat. Any teacher who wants their students to learn how to code... start here!
 en : new_home.top_banner_blurb
-Parents, give your child the gift of coding and personalized instruction with our live teachers!
+Parents, book your child's first live online coding class for free!
 en : new_home.educator_resources
-Educator resources
+Educator Resources
 en : diplomat_suggestion.pitch_body
-We develop CodeCombat in English, but we already have players all over the world. Many of them want to play in {English} but don't speak English, so if you can speak both and are a native speaker of {English}, please consider signing up to be a Diplomat and help translate both the CodeCombat website and all the levels into {English}.
+We develop CodeCombat in English, but we already have players all over the world. Many of them want to play in {English} but don't speak English, so if you can speak both, please consider signing up to be a Diplomat and help translate both the CodeCombat website and all the levels into {English}.
 en : login.email_or_username
-Email or username
+Email or Username
 en : login.sign_in_with_facebook
-Sign in with Facebook
+Facebook
 en : login.sign_in_with_gplus
-Sign in with Google
+Google
 en : signup.signup_as_teacher
-Sign up as a Teacher
-en : signup.signup_as_student
-Sign up as a Student
-en : signup.write_this_down
-Write this down:
-en : signup.teacher_students_can_start_now
-Your students will be able to start playing the first course, Introduction to Computer Science, immediately.
-en : signup.teacher_list_resource_hub_2
-Course Guides
-en : common.default_title
-CodeCombat - Coding games to learn Python and JavaScript
-en : common.default_meta_description
-Learn typed code through a programming game. Learn Python, JavaScript, and HTML as you solve puzzles and learn to make your own coding games and websites.
-en : play_level.restart_really
-Are you sure you want to restart the level? You'll loose all the code you've written.
-en : play_level.command_bank
-Command Bank
-en : subscribe.feature_level_access
-Access 500+ levels available
-en : subscribe.month_price
-$__price__/mo
-en : subscribe.year_subscription
-Annual Subscription
-en : subscribe.year_price
-$__price__/yr
-en : choose_hero.regeneration
-Regen
-en : options.editor_config_title
-Editor Configuration
-en : options.editor_config_livecompletion_label
-Live Autocompletion
-en : options.editor_config_behaviors_label
-Smart Behaviors
-en : about.main_description
-At CodeCombat, our job is to make sure you're doing that with a smile on your face.
-en : about.mission_title
-Our mission: make programming accessible to every student on Earth.
-en : about.community_subtitle
-Over 600 contributors have helped build CodeCombat, with more joining every week!
-en : about.number_contributors
-Over 650 contributors have lent their support and time to this project.
-en : about.story_statistic_1c
-have started their programming journey through CodeCombat
-en : about.jobs_title
-Come work with us and help write CodeCombat history!
-en : about.jobs_benefit_4
-Flexible hours, unlimited vacation
-en : about.jobs_benefit_5
-$1000/yr professional development and continuing education support
-en : about.jobs_benefit_6
-Medical (gold), dental, vision, 401K
-en : about.jobs_benefit_11
-12 weeks paid parental leave
-en : teachers_quote.subtitle
-Learn more about CodeCombat with an interactive walk through of the product, pricing, and implementation!
-en : teachers_quote.num_students_help
-How many students will use CodeCombat?
-en : teachers_quote.anything_else
-What kind of class do you anticipate using CodeCombat for?
-en : teachers_quote.thanks_sub_header
-Thanks for expressing interest in CodeCombat for your school.
-en : cinematic.click_anywhere_continue
-click anywhere to continue
-en : community.social_blog
-Read the CodeCombat blog
-en : courses.back_courses
-Back to my courses
-en : courses.welcome_to_courses
-Adventurer, welcome to CodeCombat!
-en : courses.ask_teacher_for_code
-Ask your teacher if you have a CodeCombat class code! If so, enter it below:
-en : courses.enter_c_code
-<Enter Class Code>
-en : courses.subtitle
-Review course overviews and levels
-en : courses.license_required_to_play
-Ask your teacher to assign a license to you so you can continue to play CodeCombat!
-en : teacher.courses
-Course Guides
-en : teacher.create_teacher_account
 Create Teacher Account
+en : signup.signup_as_student
+Create Student Account
+en : signup.write_this_down
+Write down your username:
+en : signup.teacher_students_can_start_now
+Your students will be able to start playing the first unit, Chapter 1: Up The Mountain, immediately.
+en : signup.teacher_list_resource_hub_2
+Unit Guides
+en : common.default_title
+Ozaria - Computer science that captivates
+en : common.default_meta_description
+Ozaria is a computer science program, an adventure game, and a fantasy story where students master the lost magic of coding to save their world.
+en : play_level.restart_really
+Are you sure you want to restart the level? You'll lose all the code you've written.
+en : play_level.command_bank
+Code Bank
+en : subscribe.feature_level_access
+Access 300+ levels available
+en : subscribe.month_price
+$__price__
+en : subscribe.year_subscription
+Yearly Subscription
+en : subscribe.year_price
+$__price__/year
+en : choose_hero.regeneration
+Regeneration
+en : options.editor_config_title
+Level Options:
+en : options.editor_config_livecompletion_label
+Enable Autocomplete
+en : options.editor_config_behaviors_label
+Enable Smart Behaviors
+en : about.main_description
+Our job is to make sure you're doing that with a smile on your face.
+en : about.mission_title
+Our mission: make computer science accessible to every student on Earth.
+en : about.community_subtitle
+Over 500 contributors have helped build CodeCombat, with more joining every week!
+en : about.number_contributors
+Over 450 contributors have lent their support and time to this project.
+en : about.story_statistic_1c
+have started their programming journey through CodeCombat and Ozaria
+en : about.jobs_title
+Come join us and bring computer science to the world!
+en : about.jobs_benefit_4
+Unlimited vacation
+en : about.jobs_benefit_5
+Professional development and continuing education support – free books and games!
+en : about.jobs_benefit_6
+Medical (gold), dental, vision, commuter, 401K
+en : about.jobs_benefit_11
+Paternity leave: 12 weeks paid
+en : teachers_quote.subtitle
+Learn more about Ozaria with an interactive walk through of the product, pricing, and implementation!
+en : teachers_quote.num_students_help
+How many students will use Ozaria?
+en : teachers_quote.anything_else
+What kind of class do you anticipate using Ozaria for?
+en : teachers_quote.thanks_sub_header
+Thanks for expressing interest in Ozaria for your school.
+en : cinematic.click_anywhere_continue
+Click to Continue
+en : community.social_blog
+Read the CodeCombat blog on Sett
+en : courses.back_courses
+Back to Classes
+en : courses.welcome_to_courses
+Adventurers, welcome to Courses!
+en : courses.ask_teacher_for_code
+Ask your teacher if you have a Ozaria class code! If so, enter it below:
+en : courses.enter_c_code
+Enter Class Code
+en : courses.subtitle
+Review unit overviews and levels
+en : courses.license_required_to_play
+Ask your teacher to assign you a license so you can continue to play Ozaria!
+en : teacher.courses
+Unit Guides
+en : teacher.create_teacher_account
+Create a Teacher Account
 en : teacher.select_course
-Select course to view
+Select unit to view
 en : teacher.bulk_assign
-Select course
+Select unit
 en : teacher.assign_course
-Assign Course
+Assign Unit
 en : teacher.remove_course
-Remove Course
+Remove Unit
 en : teacher.not_assigned_modal_title
-Courses were not assigned
+Units were not assigned
 en : teacher.not_assigned_modal_full_body_1
-This course requires a Full License. You do not have enough Full Licenses available to assign this course to all __selected__ selected students.
+This unit requires a Full License. You do not have enough Full Licenses available to assign this unit to all __selected__ selected students.
 en : teacher.enrollments_blurb
-Students are required to have a license to access any content after the first course.
+Students are required to have a license to access any content after the first unit.
 en : teacher.how_to_apply_licenses_blurb_1
-When a teacher assigns a course to a student for the first time, we’ll automatically apply a license. Use the bulk-assign dropdown in your classroom to assign a course to selected students:
+When a teacher assigns a unit to a student for the first time, we’ll automatically apply a license. Use the Select Unit dropdown in your classroom to assign a unit to selected students:
 en : teacher.how_to_apply_licenses_blurb_2
-Can I still apply a license without assigning a course?
+Can I still apply a license without assigning a unit?
 en : teacher.educator_faq_desc
-Frequently asked questions about using CodeCombat in your classroom or school.
+Frequently asked questions about using Ozaria in your classroom or school.
 en : teacher.teacher_getting_started_desc
-New to CodeCombat? Download this Teacher Getting Started Guide to set up your account, create your first class, and invite students to the first course.
+New to Ozaria? Download this Teacher Getting Started Guide to set up your account, create your first class, and invite students to the first unit.
 en : teacher.student_good_detail
-This student is keeping pace with the class's average level completion times.
+This student is keeping pace with the class.
 en : teacher.student_warn_detail
-This student's average level completion times suggest they might need some help with new concepts that have been introduced in this course.
+This student might need some help with new concepts that have been introduced in this course.
 en : teacher.student_great_detail
-This student might be a good candidate to help other students working through this course, based on average level completion times.
+This student might be a good candidate to help other students working through this course.
 en : teacher.hoc_self_led_desc
-Students can play through our Hour of Code CodeCombat tutorials on their own
+Students can play through two Hour of Code CodeCombat tutorials on their own
 en : teacher.hoc_teacher_led_link
-Hour of Code lesson plans
+Introduction to Computer Science lesson plans
 en : teacher.teacher_quest_teach_methods_step1
-Get 75% of at least one class through the first level, Dungeons of Kithgard
+Get 75% of at least one class through the first level, __Dungeons of Kithgard__
 en : teacher.teacher_quest_teach_methods_step2
-Print out the [Student Quick Start Guide](https://files.codecombat.com/docs/resources/StudentQuickStartGuide.pdf) in the Resource Hub.
+Print out the [Student Quick Start Guide](http://files.codecombat.com/docs/resources/StudentQuickStartGuide.pdf) in the Resource Hub.
 en : teacher.teacher_quest_teach_strings_step1
-Get 75% of at least one class through True Names
+Get 75% of at least one class through __True Names__
 en : teacher.teacher_quest_teach_strings_step2
-Use the Teacher Level Selector on [Course Guides](/teachers/courses) page to preview True Names.
+Use the Teacher Level Selector on [Course Guides](/teachers/units) page to preview __True Names__.
 en : teacher.teacher_quest_teach_loops_step1
-Get 75% of at least one class through Fire Dancing.
+Get 75% of at least one class through __Fire Dancing__.
 en : teacher.teacher_quest_teach_loops_step2
-Use the Loops Activity in the [CS1 Curriculum guide](/teachers/resources/cs1) to reinforce this concept.
+Use the __Loops Activity__ in the [CS1 Curriculum guide](/teachers/resources/cs1) to reinforce this concept.
 en : teacher.teacher_quest_teach_variables_step1
-Get 75% of at least one class through Known Enemy.
+Get 75% of at least one class through __Known Enemy__.
 en : teacher.teacher_quest_kithgard_gates_100_step1
-Get 75% of at least one class through Kithgard Gates.
+Get 75% of at least one class through __Kithgard Gates__.
 en : teacher.teacher_quest_kithgard_gates_100_step2
-Guide students to think through hard problems using the [Engineering Cycle Worksheet](https://files.codecombat.com/docs/resources/EngineeringCycleWorksheet.pdf).
+Guide students to think through hard problems using the [Engineering Cycle Worksheet](http://files.codecombat.com/docs/resources/EngineeringCycleWorksheet.pdf).
 en : teacher.teacher_quest_wakka_maul_100_step1
-Get 75% of at least one class to Wakka Maul.
+Get 75% of at least one class to __Wakka Maul__.
 en : teacher.view_project_gallery
-View Project Gallery
+View Capstone Gallery
 en : teacher.time_played_label
-Time Played:
+Time Spent:
 en : ladder.fight
-Battle!
+Fight!
 en : account.resend_email
-Please save first then Resend email
+Resend email
 en : concepts.object_literals
-Object literals
+Object Literals
 en : legal.cost_description
-CodeCombat is free to play for its introductory levels, with a ${{price}} USD/mo subscription for access to extra levels and {{gems}} bonus gems per month. You can cancel with a click, and we offer a 100% money-back guarantee.
+CodeCombat is free to play for all of its core levels, with a ${{price}} USD/mo subscription for access to extra level branches and {{gems}} bonus gems per month. You can cancel with a click, and we offer a 100% money-back guarantee.
 en : hoc_2018.banner
-Welcome to Hour of Code!
+Happy Computer Science Education Week!
 en : hoc_2018.activity_label_1
-Beginner CS: Escape the Dungeon!
+Escape the Dungeon!
 en : hoc_2018.activity_label_2
- Beginner GD: Build a Game!
+ Beginner: Build a Game!
 en : hoc_2018.activity_label_3
-Advanced GD: Build an Arcade Game!
+Advanced: Build an Arcade Game!
 en 89
 en-US 0
 en-GB 0
 zh-HANS : new_home.title
-扣哒世界|CodeCombat中国|AI世青赛|少儿编程等级认证
+奥佳睿 - 引人入胜的计算机科学课程
 zh-HANS : new_home.meta_keywords
-扣哒世界, 青少年编程, 少儿编程, 信息学奥赛, CodeCombat官网,CodeCombat中文,游戏化编程,AI世青赛,信息学奥赛,奥佳睿,CodeCombat中国
+CodeCombat,青少年编程,少儿编程,奥佳睿官网,Ozaria,游戏化编程,AI世青赛,信息学奥赛,奥佳睿,Ozaria中文
 zh-HANS : new_home.meta_description
-扣哒世界，CodeCombat中国唯一官方网站，支持Python, C++, JavaScript, 美国大学理事会（AP)认证，AI世青赛全球独家技术平台，支持中美信息学奥赛(NOI, CSP-J/S, USACO)、电子学会考试和国际青少年编程认证。
+CodeCombat原创作品，支持Python, JavaScript 和编程英语学习，奥佳睿（Ozaria）既是计算机科学程序，扣人心弦的冒险游戏，也是一个让学生们掌握计算机代码魔法来拯救世界的科幻故事。
 zh-HANS : new_home.built_for_teachers_title
-赋能编程教师的专业课程体系
+一个以教师为中心的课程体系
 zh-HANS : new_home.built_for_teachers_blurb
-扣哒世界提供专业、丰富的编程教案和教学活动设计、大数据教学管理平台和学生知识评估体系，可以帮助无计算机专业背景的教师轻松掌握Python, C++, JavaScript等代码编程入门和进阶阶段教学。扣哒世界和著名师资培训中心共同设置“扣哒名师奖”，培养中小学阶段编程和人工智能专业师资。
+教孩子们写代码往往会觉得无从下手。 CodeCombat 旨在帮助所有的教育工作者传授学生学习和掌握当下最流行的两种计算机语言，JavaScript 和 Python。整个体系包含六门计算机科学课程，以及通过基于项目的游戏开发和网页开发单元巩固学习，教会孩子们一步步从基本语法到高级递归前进！
 zh-HANS : new_home.classroom_in_box_title
-我们致力于：
+我们努力：
 zh-HANS : new_home.classroom_in_box_blurb1
-创建世界一流的青少年编程平台
+让每个学生有机会学习编程
 zh-HANS : new_home.classroom_in_box_blurb2
-培养下一代青少年计算机科学英才
+让每位老师在授课时更有自信
 zh-HANS : new_home.classroom_in_box_blurb3
-赋能学校和培训机构开设精品编程课
+赋能更多的学校创建世界一流的计算机科学课程
 zh-HANS : new_home.creativity_rigor_title
-扣哒世界与众不同
+当创意与逻辑相遇
 zh-HANS : new_home.creativity_rigor_subtitle1
-寓教于乐，轻松入门
+传授实用编程技能，让编写代码变得有趣
 zh-HANS : new_home.creativity_rigor_blurb1
-扣哒世界把编程学习过程具象成”游戏闯关”和小项目开发。鼓励发挥想象力和试错，在潜移默化中掌握编程语法、算法、英语，培养逻辑思维和动手能力。
+学生在闯关游戏时输入真实的 Python 和 JavaScript 代码，整个过程鼓励试错 (Trail and Error)、逻辑思辨思维和创新。继而应用所学的编程知识在项目式学习 (Project Based Learning) 课程中开发自己的游戏和网站。
 zh-HANS : new_home.creativity_rigor_blurb2
-扣哒世界每个关卡都是依据权威标准(CSTA/CCSS/AP等)并根据数百万用户学习反馈数据搭建，并不断优化迭代，个性化呈现每一个学习者的状况便于制定个性化教学方案。
+每个 CodeCombat 关卡都依据数百万个教研及市场调查数据搭建，并不断优化迭代，以适应不同学习者的状况。 练习关卡和提示按钮在学生遇到难题时提供帮助，挑战关卡 可用于评估学生整个课程的学习情况。
 zh-HANS : new_home.creativity_rigor_subtitle3
-支持青少年编程竞赛
+适合所有教师，无论编程经验如何
 zh-HANS : new_home.creativity_rigor_blurb3
-扣哒世界自带竞赛系统(多人算法编程竞技场和创意编程顶峰项目)。已被中国、美国、新加坡、以色列等多个国家采用，是多个知名青少年编程竞赛指定平台。
+CodeCombat 的自由进度掌控及模块式教学的课程设计让任何无编程经验的老师都可轻松上手。 CodeCombat 配备完善的教师培训、教学资源和专业支持，帮助老师们在课堂上收获自信和成功。
 zh-HANS : new_home.for_leaders_subtitle3
-量身定制课程
+灵活的运用案例
 zh-HANS : new_home.for_leaders_subblurb3
-无论是少儿编程机构、中小学编程选修课、大学编程入门基础，扣哒世界都可以根据合作伙伴需求定制课程。
+无论是中小学编程选修课、计算机兴趣小组和社团、还是高阶AP计算机科学原理课程，CodeCombat 都能根据各类院校需求量身定制。
 zh-HANS : new_home.game_based_blurb
-扣哒世界 (CodeCombat) 是全球广受欢迎的青少年人工智能代码编程学习平台，以PBL场景化和游戏化为特色。平台有6个等级和11个学习模块(含国际等级证书) ，支持Python, C++、JavaScript等程序语言教学和学习。美国大学理事会AP权威认证， AI世青赛全球编程挑战活动指定竞赛平台。
+CodeCombat 是一款基于游戏互动和项目式学习的计算机科学课程，学生可在其中编写真实代码并查看自己英雄角色的实时反应。
 zh-HANS : new_home.quotes_quote1
-扣哒世界寓教于乐，教学设计循序渐进，并且有AI世青赛全球官方竞赛，我和同学们都非常喜欢，我推荐老师们用这个平台开展编程兴趣班入门和进阶教学。
+我几乎尝试了所有的线上编程课，都无法与 CodeCombat 相比。任何希望学生学习编程的老师，请从这里开始！
 zh-HANS : new_home.slogan
-AP认证世界名校编程平台
+最引人入胜的编程课堂
 zh-HANS : new_home.educator
-教育工作者
+教师
 zh-HANS : nav.general
-简介
+相关链接
 zh-HANS : play.anon_signup_enter_code
-输入班级代码：
+输入班级码
 zh-HANS : play.next
-下一页
+下一步
 zh-HANS : common.default_title
-扣哒世界 - 在场景化编程中学习Python，JavaScript和C++
+奥佳睿 - 引人入胜的计算机科学课程
 zh-HANS : common.default_meta_description
-通过场景化教学学习输入真实的代码。 在解决难题的同时掌握Python，JavaScript和C++，并学习制作自己的代码游戏和网站。
+奥佳睿（Ozaria）既是计算机科学程序，扣人心弦的冒险游戏，也是一个让学生们掌握计算机代码魔法来拯救世界的科幻故事。
 zh-HANS : common.next
-下一个
+下一步
 zh-HANS : play_level.restart_really
-你确定要重启关卡吗？你写的所有代码会丢失。
+确定要重新开始？你会失去本关你写的所有代码
 zh-HANS : play_level.restart_confirm
-是的，重启
+是的，重新开始
 zh-HANS : play_level.tip_open_source
-「CodeCombat」青少年编程领导品牌！
+「CodeCombat」是100%开源的！
 zh-HANS : play_level.command_bank
-指挥库
+代码库
 zh-HANS : play_level.vega_character
-Vega 字符
+维迦
 zh-HANS : play_game_dev_level.goal_move
-移动到所有红X标记。
+移动的所有的红X标记。
 zh-HANS : avatar_selection.pick_an_avatar
-选择一个代表你的玩家头像。
+选择一个化身用来代表你的角色
 zh-HANS : char_customization_modal.heading
-自定义你的英雄
+个性化定制你的英雄
 zh-HANS : char_customization_modal.body
-主体
+身体
 zh-HANS : about.story_subtitle
-从2013年至今，CodeCombat已经从一组小草图成长为一个生动的、蓬勃发展的教育产品。
+从2013年至今，CodeCombat已经从一组小草图成长为一个生动的、蓬勃发展的游戏。
 zh-HANS : about.story_statistic_1a
-20,000,000+
+5,000,000+
 zh-HANS : teachers_quote.subtitle
-在您的机构、学校和班级开展编程和人工智能课程
+将 CodeCombat 带到您的班级、俱乐部、学校甚至地区！
 zh-HANS : teachers_quote.primary_role_label
-您的主要角色
+您的主要职业
 zh-HANS : teachers_quote.role_default
-选择角色
+选择职业
 zh-HANS : teachers_quote.tech_coordinator
-其它
+技术负责人
 zh-HANS : teachers_quote.principal
-学校/机构
+校长
 zh-HANS : teachers_quote.referrer_hoc
-比赛
+Code.org/Hour of Code
 zh-HANS : teachers_quote.referrer_admin
-百度
+管理员
 zh-HANS : teachers_quote.referrer_pd
-知乎
+专业培训/讲习班
 zh-HANS : teachers_quote.referrer_web
-家长
+Google
 zh-HANS : courses.enter_emails
-输入学生电邮地址来邀请，每行一个
+输入学生电邮地​​址来邀请，每行一个
 zh-HANS : courses.assign
-分派
+分配
 zh-HANS : courses.license_will_revoke
-该学生的付费许可将被撤销，并可分配给其他学生。
+该学生付费许可将被撤销，稍后可以分配给其他学生
 zh-HANS : teacher.revoke_license
-撤回许可
+终止许可
 zh-HANS : teacher.revoke_licenses
-撤回所有许可
+终止所有许可
 zh-HANS : teacher.teacher_quest_teach_methods_step1
-班级中至少有 75% 的学生通过该关卡 Dungeons of Kithgard
+班级中至少有 75% 的学生通过该关卡 __Dungeons of Kithgard__
 zh-HANS : teacher.teacher_quest_teach_methods_step2
-打印资源中心的 [学生快速入门指南](https://files.codecombat.com/docs/resources/StudentQuickStartGuide.pdf) 
+打印资源中心的 [学生快速入门指南](http://files.codecombat.com/docs/resources/StudentQuickStartGuide.pdf) 
 zh-HANS : teacher.teacher_quest_teach_strings_step1
-班级中至少有 75% 的学生通过该关卡 True Names
+班级中至少有 75% 的学生通过该关卡 __True Names__
 zh-HANS : teacher.teacher_quest_teach_strings_step2
-使用 [课程指导](/teachers/courses) 页面上的老师关卡选择器预览 True Names
+使用 [课程指导](/teachers/courses) 页面上的老师关卡选择器预览 __True Names__
 zh-HANS : teacher.teacher_quest_teach_loops_step1
-班级中至少有 75% 的学生通过该关卡 Fire Dancing.
+班级中至少有 75% 的学生通过该关卡 __Fire Dancing__.
 zh-HANS : teacher.teacher_quest_teach_loops_step2
-强化学习 Loops Activity 这个概念，参考 [CS1 课程指南](/teachers/resources/cs1).
+强化学习 __Loops Activity__ 这个概念，参考 [CS1 课程指南](/teachers/resources/cs1).
 zh-HANS : teacher.teacher_quest_teach_variables_step1
-班级中至少有 75% 的学生通过该关卡 Known Enemy.
+班级中至少有 75% 的学生通过该关卡 __Known Enemy__.
 zh-HANS : teacher.teacher_quest_kithgard_gates_100_step1
-班级中至少有 75% 的学生通过该关卡 Kithgard Gates.
+班级中至少有 75% 的学生通过该关卡 __Kithgard Gates__.
 zh-HANS : teacher.teacher_quest_kithgard_gates_100_step2
-引导学生通过思考来解决难题 [Engineering Cycle Worksheet](https://files.codecombat.com/docs/resources/EngineeringCycleWorksheet.pdf).
+引导学生通过思考来解决难题 [Engineering Cycle Worksheet](http://files.codecombat.com/docs/resources/EngineeringCycleWorksheet.pdf).
 zh-HANS : teacher.teacher_quest_wakka_maul_100_step1
-班级中至少有 75% 的学生通过该关卡 Wakka Maul.
+班级中至少有 75% 的学生通过该关卡 __Wakka Maul__.
 zh-HANS : teacher.view_project_gallery
-查看项目图库
+查看顶点项目图库
 zh-HANS : share_licenses.share_licenses
-分配许可
+分享许可
 zh-HANS : ladder.tournament_end_desc
-比赛暂未开放
+比赛已结束，感谢您的参与
 zh-HANS : account.resend_email
-请先保存邮箱再重发验证邮件
+重发验证邮件
 zh-HANS : concepts.for_loops_nested
-嵌套循环
+For循环嵌套
 zh-HANS : concepts.for_loops_range
-循环范围
+For循环范围
 zh-HANS : concepts.math_coordinates
-数学坐标
+坐标系
 zh-HANS : concepts.property_access
-访问属性
+获取属性
 zh-HANS : concepts.property_assignment
-分配属性
+属性赋值
 zh-HANS : concepts.queues
-数据结构 - 队列
+数据结构-队列
 zh-HANS : interactives.phenomenal_job
-了不起的工作！
+太棒了!
 zh-HANS : interactives.try_again
-哎呀，再试一次！
+请重试!
 zh-HANS : interactives.select_statement_left
-糟糕，在点击“提交”之前，先从左边选择一个语句。
+点击提交前请选择一条代码
 zh-HANS : interactives.fill_boxes
-哎呀，在点击“提交”之前，一定要把所有的框填满。
+请确认在提交前完成所有的表单项目
 zh-HANS 76
 zh-HANT : new_home.built_for_teachers_title
-一個由教師們創建的編碼遊戲
+一個由教師建構的編碼遊戲
 zh-HANT : new_home.built_for_teachers_blurb
-教導孩子們撰寫程式碼時，時常會令人感到無力，透過 CodeCombat 可以幫助所有教育工作者教導學生如何撰寫 JavaScript 或 Python（兩種最流行的程式語言）。 透過完整的六門計算機科學課程、遊戲開發和 Web 開發，專題式的來進行學習，孩子們將從基本語法往遞迴程式設計前進！
+教孩子們編寫代碼往往會令人感到招架不住。 透過 CodeCombat 可以幫助所有教育工作者教授學生如何使用 JavaScript 或 Python（兩種最流行的編程語言）進行編碼。 透過包含六個計算機科學的綜合課程，以及遊戲開發和 Web 開發專題來進行加強學習，孩子們將在從基本語法往遞迴程式設計中前進！
 zh-HANT : new_home.built_for_teachers_subblurb1
-從免費的電腦科學入門課程開始，學生將掌握撰寫程式碼的核心概念，例如 while / for 迴圈、函式和演算法。
+從免費的電腦科學入門課程開始，學生將掌握核心編碼概念，例如 while / for 循環，函式和算法。
 zh-HANT : new_home.built_for_teachers_subblurb2
-學習者可以建構迷宮並使用基本函數來撰寫他們自己的遊戲，並分享給朋友和家人。
+學習者構建迷宮並使用基本函式來編碼他們自己的遊戲，這些遊戲可以與朋友和家人共享。
 zh-HANT : new_home.built_for_teachers_subblurb3
-通過使用 HTML、CSS 和 jQuery，學生可以發揮自己的創意來撰寫網頁，並可以利用專屬的 URL 與同學們分享。
+通過使用 HTML、CSS 和 jQuery，學生可以利用自定義 URL 對自己的網頁進行編程，以便與同學共享。
 zh-HANT : play.back_to_classroom
-回到教室
+返回教室
 zh-HANT : login.accounts_merge_confirmation
-有一個與此Google帳戶中的電子郵件關聯的帳戶。 您要合併這些帳戶嗎？
+已經有帳號與這個 Google Email關聯. 您想合併這些帳號嗎?
 zh-HANT : signup.teacher_email_announcements
-讓我取得新的教師資源及課程。
+讓我持續獲得新的教材與教學資源等資訊!
 zh-HANT : common.submit
-提交
+送出
 zh-HANT : general.accept_and_save
-同意並儲存
+接受並儲存
 zh-HANT : about.story_statistic_1a
-總計超過 20,000,000+ 
+總計超過 5,000,000+ 
 zh-HANT : about.story_statistic_2b
-超過 190+ 個國家
+超過 200+ 個國家
 zh-HANT : about.previous
-上一步
+上一個
 zh-HANT : teachers_quote.country
-國家 / 地區
+國家/地區
 zh-HANT : teacher.wd1_headlines
-標題以及標題活動
+標題以及標題activity
 zh-HANT : ladder.no_ranked_matches_pre
-與這個隊伍尚未有評分過的比賽: 
+對這個隊伍尚未有評分過的配對！
 zh-HANT : ladder.no_ranked_matches_post
- 與一些競爭對手進行比賽，然後回到這裏以取得您的比賽排名。
+ 在別人的戰場上扮演對手並且回到這使您的程式碼接受評定排名。
 zh-HANT : account.resend_email
-重新寄出電子郵件
+重新寄出email
 zh-HANT : account.email_sent
-已寄出電子郵件! 請查看您的信箱。
+已寄出Email! 請查看您的信箱。
 zh-HANT : account.verifying_email
-正在驗證您的電子郵件...
+正在驗證您的email...
 zh-HANT : account.successfully_verified
-您已經成功的驗證了您的電子郵件!
+您已經成功的驗證了您的email!
 zh-HANT : concepts.while_condition_loops
-While 含條件循環 
+While(當) 含條件迴圈 
 zh-HANT : concepts.while_loops_simple
-While 循環
+While(當) 迴圈
 zh-HANT : concepts.while_loops_nested
-巢狀 While 循環
+巢狀 While(當) 迴圈
 zh-HANT 24
 ru : new_home.title
-CodeCombat - Игры с програмированнием для изучения Python и Java Script
+Ozaria - это увлекательная Информатика.
 ru : new_home.meta_keywords
-CodeCombat, Python, JavaScript, Игры с програмированнием
+CodeCombat, python, javascript, Приключение, Информатика, Обучающая игра, Эпичная игра, программирование для детей
 ru : new_home.meta_description
-Учитесь писать код с помощью игр для програмирования.Изучайте Python, JavaScript и HTML, решая головоломки, и учитесь создавать собственные игры и сайты для написания кода.
+Ozaria - это курс информатики, приключенческая игра и сказочная история, в которой ученики овладеют потерянной магией программирования, чтобы спасти сказочный мир
 ru : new_home.become_investor
-Стать инвестором в CodeCombat
+стать инвестором в CodeCombat
 ru : new_home.built_for_teachers_title
-Игра для програмированния, созданная с учителями в уме
+Обучающая программированию игра сделаная для учителей.
 ru : new_home.built_for_teachers_blurb
-Обучение детей программированию часто может быть ошеломляющим. CodeCombat помогает всем преподавателям учить студентов программировать на JavaScript или Python, двух самых популярных языках программирования. Благодаря всеобъемлющему учебному плану, который включает в себя шесть блоков информатики и способствует обучению посредством основанных на проектах блоков разработки игр и веб-разработки, дети будут продвигаться по пути от основного синтаксиса к рекурсии!
+Обучать детей программированию невероятно сложно. CodeCombat помогает педагогам обучать, как программировать на JavaScript или Python - двуx самых популярных языках программирования. При помощи подробного учебного плана, включающего в себя 6 блоков по информатике и основанных на проектах курсах по разработке игр и блоков по веб разработке, дети смогут пройти весь путь от базового синтаксиса до понимания рекурсий.
 ru : new_home.built_for_teachers_subblurb1
-Начиная с бесплатного курса «Введение в информатику», студенты осваивают основные понятия кодирования, такие как циклы while/for, функции и алгоритмы.
+Начиная с нашего бесплатного Введения в Информатику, ученики освоят базовые концепты, такие как while/for циклы, функции и алгоритмы.
 ru : new_home.built_for_teachers_subblurb2
-Учащиеся создают лабиринты и используют базовую обработку ввода для написания собственных игр, которыми можно поделиться с друзьями и семьей.
+Ученики строят свои лабиринты и используют базовую обработку ввода, чтобы создавать их собственные игры, которыми они смогут поделится с семьей и друзьями.
 ru : new_home.built_for_teachers_subtitle3
-Разработка игр.
+Веб разработка
 ru : new_home.built_for_teachers_subblurb3
-Используя HTML, CSS и jQuery, учащиеся развивают свои творческие способности, чтобы программировать свои собственные веб-страницы с помощью специального URL-адреса, чтобы делиться ими со своими одноклассниками.
+Используя HTML, CSS, и jQuery, ученики смогут дать волю воображению и создать собственные веб страницы с уникальным URL, чтобы поделиться с друзьями
 ru : new_home.century_skills_blurb1
-Студенты не просто повышают уровень их героев, Они повышают свой уровень
+Ученики не просто прокачивают своего героя. Они прокачивают самих себя.
 ru : new_home.century_skills_quote1
-Вы запутались...Поэтому подумайте о всех возможных способах исправить это, а затем попробуйте снова. Я бы не смог добраться сюда без всяких усилий.
+Ты застрял... так что ты перебираешь все возможные варианты как исправить и пробуешь еще раз. Я не смог оказаться здесь если бы не старался.
 ru : new_home.century_skills_subblurb1
-Благодаря программированию головоломок, которые естественным образом превращаются в все более сложные уровни, программная игра CodeCombat гарантирует, что дети всегда практикуют критическое мышление.
+С помощью головоломок по программированию, которые естественным путем выстраиваются в повышающие сложность уровни, наша игра убедит детей использовать критическое мышление.
 ru : new_home.century_skills_quote2
-Все остальные делали лабиринты, поэтому я подумал: «захватить флаг», и вот что я сделал.
+Все остальные делали лабиринты, поэтому я подумал: 'захват флага', и вот что я сделал.
 ru : new_home.century_skills_subtitle2
-Креативность
+Творчество
 ru : new_home.century_skills_subblurb2
-CodeCombat поощряет студентов демонстрировать свои творческие способности, создавая и распространяя свои собственные игры и веб-страницы.
+CodeCombat вдохновляет учеников делится своим творчеством в ходе построения своих игр и веб страниц.
 ru : new_home.classroom_in_box_title
-Мы стремимся:
+Мы хотим:
 ru : new_home.classroom_in_box_blurb1
-Вовлеките каждого ученика, чтобы он поверил, что программирование им по зубам.
+Вовлечь каждого ученика, чтобы он поверил, что программирование доступно каждому.
 ru : new_home.classroom_in_box_blurb2
-Дайте возможность любому преподавателю чувствовать себя уверенно при обучении программированию.
+Дать возможность любому преподавателю чувствовать себя уверенно при обучении программированию.
 ru : new_home.classroom_in_box_blurb3
-Вдохновите всех школьных лидеров создать программу компьютерных наук мирового класса.
+Вдохновите всех школьных руководителей создать программу программирования мирового класса.
 ru : new_home.click_here
-Нажмите здесь
+Кликните сюда
 ru : new_home.creativity_rigor_subtitle1
-Занимайтесь программированием и обучайтесь реальным навыкам
+Сделайте программирование веселым и обучайтесь реальным навыкам
 ru : new_home.creativity_rigor_blurb1
-Учащиеся пишут на настоящем Python и JavaScript, играя в игры, которые поощряют метод проб и ошибок, критическое мышление и творческий подход. Затем студенты применяют приобретенные навыки кодирования, разрабатывая свои собственные игры и веб-сайты на курсах, основанных на проектах.
+Ученики исполъзуют Python и JavaScript, играя в игры, которые поощряют метод проб и ошибок, критическое мышление и творческий подход. Затем стуученикиденты применяют приобретенные навыки программирования, разрабатывая свои собственные игры и веб-сайты на курсах, основанных на проектах.
 ru : new_home.creativity_rigor_subtitle2
-Достигните студентов на их уровне
+Подберите уровень для учеников
 ru : new_home.creativity_rigor_blurb2
-Каждый уровень CodeCombat создается на основе миллионов точек данных и оптимизируется для адаптации к каждому учащемуся. Уровни практики и советы помогают учащимся, когда они застряли, и уровни сложности оценивают обучение студентов на протяжении всей игры.
+Каждый уровень CodeCombat создается на основе миллионов данных и оптимизируется для адаптации к каждому учащемуся. Уровни практики и советы помогают учащимся, когда они застряли, и уровни сложности оценивают обучение студентов на протяжении всей игры.
 ru : new_home.featured_partners_title2
-Награды и Партнеры
+Награды и партнеры
 ru : new_home.featured_partners_blurb4
-Code.org Официальный партнер
+Официальный партнер Code.org
 ru : new_home.featured_partners_blurb5
-Официальный член CsForAll
+Официальный челн CSforAll
 ru : new_home.for_leaders_title
-Для лидеров школы
+Для руководителей школ
 ru : new_home.for_leaders_blurb
-Комплексная стандартизированная компьютерная программа
+Комплексная стандартизированная программа по Информатике
 ru : new_home.for_leaders_subtitle2
-Программа полная кодирования
+Полный учебный план
 ru : new_home.for_leaders_subblurb3
-Независимо от того, хотите ли вы создать факультатив по кодированию в средней школе, курс CTE или класс AP Computer Science Principles, CodeCombat разработан с учетом ваших потребностей.
+Независимо от того, хотите ли вы создать факультатив по программированию в средней школе, курс CTE или класс AP Computer Science Principles, CodeCombat разработан с учетом ваших потребностей.
 ru : new_home.for_leaders_subblurb4
-Студенты набирают твердость и развивают мышление роста с помощью задач по программированию, которые готовят их к более чем 500 тысячам вакансий в области открытых вычислений.
+Ученики выстраивают навыки и систему мышления с помощью задач по программированию, которые готовят их к работе на 500K+ открытых позициях.
 ru : new_home.for_teachers_subtitle2
-Рабочая панель учителя
+Панель управления для учителя
 ru : new_home.for_teachers_subblurb2
-Просматривайте данные об успеваемости учащихся, находите ресурсы учебной программы и получайте доступ к поддержке в реальном времени, чтобы расширить возможности учащихся в обучении.
+ледите за прогрессом учеников, просматривайте учебнуе материалы и получите доступ к поддержке в реальном времени, чтобы улучшить учебный процесс.
 ru : new_home.for_teachers_subtitle3
-Встроенные оценки
+Встроенные системы оценки
 ru : new_home.for_teachers_subblurb3
-Персонализируйте обучение и убедитесь, что учащиеся понимают основные концепции, с помощью формирующих и итоговых оценок.
+Персонализируйте подход и убедитесь что ученики понимают ключевые концепты с помощью оценок для уроков и модулей.
 ru : new_home.for_teachers_subblurb4
-Вовлеките всех учащихся в разнообразный класс с уровнями практики, которые адаптируются к учебным потребностям каждого учащегося.
+Мотивируйте учеников в разнообразных классах с уровнями, которые можно адаптировать для разных задач.
 ru : new_home.game_based_blurb
-CodeCombat - это игровая компьютерная программа, в которой учащиеся вводят реальный код и видят, как их персонажи реагируют в режиме реального времени.
+CodeCombat - это игровая программа по информатике, где ученики используют настоящий код и видят как персонажи реагируют на него.
 ru : new_home.global_title
-Присоединяйся к нашему глобальному сообществу учеников и преподавателей
+Присоединяйтесь к нашему глобальному сообществу учеников и учителей
 ru : new_home.global_subtitle1
-Учащиеся
+Учащихся
 ru : new_home.global_subtitle2
-Строки с кодом
+Строк кода
 ru : new_home.global_subtitle3
-Учителя
+Учителей
 ru : new_home.global_subtitle4
-Страны
+Стран
 ru : new_home.go_to_my_classes
-Пойти на мои уроки
+Перейти в мои классы
 ru : new_home.go_to_my_courses
-Пойти на мои курсы
+Перейти к моим курсам
 ru : new_home.teach_cs1_free
-Обучать CS1 Бесплатно
+Обучать Введению в Информатику бесплатно
 ru : new_home.top_banner_blurb
-Родители, подарите своему ребенку программирование и индивидуальные инструкции с нашими живыми учителями!
+Новости: присоединяйтесь к нашей миссии!
 ru : new_home.request_quote
-Сделать запрос
+Запросить демо
 ru : new_home.educator
-Учитель
+Педагог
 ru : nav.educators
-Учителям
+Педагоги
 ru : nav.follow_us
-Подпишись на нас
+Подписывайтесь на нас
 ru : nav.general
-Главное
+Основное
 ru : modal.cancel
-Отменить
+Отмена
 ru : play.title
-Играйте в уровни CodeCombat - изучите Python, JavaScript и HTML
+Играть уровни CodeCombat - Учи Python, JavaScript и HTML
 ru : play.meta_description
-Изучите программирование с помощью игры для начинающих. Изучите Python или JavaScript, решая лабиринты, создавая собственные игры и повышая уровень. Бросьте вызов своим друзьям на многопользовательских уровнях арены!
+Учи программирование с помощью обучающей игры для начинающих. Учи Python или JavaScript пока решаешь лабиринты, делаешь свои игры и прокачиваешься. Брось вызов своим друзьям в многопользовательских аренах.
 ru : play.level_title
-__level__ - Научитесь программировать на Python, JavaScript, HTML
+__level__ - Учись программировать на Python, JavaScript, HTML
 ru : play.web_development_title
-__level__ | Веб-разработка
+__level__ | Веб разработка
 ru : play.anon_signup_title_1
-CodeCombat имеет
+У CodeCombat есть 
 ru : play.anon_signup_title_2
-Версию для класса!
+Версия для классов!
 ru : play.anon_signup_ask_teacher
-Нет кода? Спросите своего учителя!
+Не знаете код? Спросите учителя!
 ru : play.anon_signup_setup_class
-Создайте класс, добавьте своих учеников и следите за успеваемостью!
+Настройте класс, добавьте учеников и отслеживайте прогресс!
 ru : play.anon_signup_create_teacher
-Создать бесплатную учетную запись учителя
+Создайте бесплатный учительский аккаунт
 ru : login.accounts_merge_confirmation
-Существует учетная запись, связанная с электронной почтой из этой учетной записи Google. Хотели бы вы объединить эти учетные записи?
+Существует аккаунт связанный с e-mail с данного Google аккаунта. Хотите их обьединить?
 ru : signup.login
-Войти
+Вход
 ru : signup.eu_confirmation_place_of_processing
-Узнайте больше о возможных рисках
+Узнайте больше о возможных рискахs
 ru : common.default_title
-CodeCombat - Игра для изучения Python и JavaScript
+Ozaria - Увлекательная Информатика
 ru : common.default_meta_description
-Изучите написанный код с помощью игры по программированию. Изучите Python, JavaScript и HTML, решая головоломки и научитесь создавать свои собственные игры и веб-сайты для программирования.
+Ozaria - это курс информатики, приключенческая игра и сказочная история, в которой ученики овладеют потерянной магией программирования, чтобы спасти сказочный мир
 ru : common.submit
-Принять
+Отправить
 ru : common.replay
-Заново
+Повторить
 ru : common.complete
-Выполнено
+Завершен
 ru : play_level.restart_really
-Вы уверены, что хотите перезапустить уровень? Код, который вы написали, будет удалён.
+Вы уверены что хотите сбросить уровень? Все изменения в коде будут потеряны.
 ru : play_level.restart_confirm
-Да, перезапустить
+Да, Сбросить
 ru : play_level.tome_cast_button_update
-Обновление
+Обновить
 ru : play_level.learn_new_concepts
-Изучите новые концепции
+Изучать новую тему
 ru : play_level.watch_a_video
-Посмотрите видео на тему __concept_name__
+Смотреть видео на тему __concept_name__
 ru : play_level.concept_unlocked
-Концепция разблокирована
+Тема разблокирована
 ru : play_level.use_at_least_one_concept
-Используйте хотя бы одну концепцию: 
+Используйте хотя бы одну тему: 
 ru : play_level.command_bank
-Командный банк
+Справочник
 ru : play_level.learning_goals
-Цели обучения
+Учебные цели
 ru : play_level.vega_character
-Персонаж Вега
+Персонаж Vega
 ru : play_level.click_to_continue
-Нажмите чтобы продолжить
+Кликните чтобы продолжить
 ru : avatar_selection.pick_an_avatar
-Выберите аватар, который будет у вашего игрового персонажа
+Выберите аватар, который будет представлять вас в игре.
 ru : char_customization_modal.heading
-Настроить Вашего Героя
+Настрой своего героя
 ru : char_customization_modal.body
-Туловище
+Тело
 ru : char_customization_modal.name_label
-Имя Героя
+Имя героя
 ru : about.title
-О CodeCombat - Вовлекаем студентов, Расширяем возможности учителей, Вдохновляем на творчество
+О CodeCombat - Вдохновляем учеников, Помогаем Учителям, Поощряем творчество.
 ru : about.meta_description
-Наша миссия - выровнять компьютерные науки с помощью игрового обучения и сделать программирование доступным для каждого учащегося. Мы считаем, что программирование - это волшебство, и хотим, чтобы учащиеся могли создавать вещи на основе чистого воображения.
+Наша задача повысить уровень компьютерной граммотности с помощью игрового обучения и сделать обучение программированию доступным любому учащемуся. Мы верим что программирование это магия и хотим чтобы ученики получили возможность создавать новое с помощью воображения.
 ru : about.shan_title
-Руководитель отдела маркетинга, CodeCombat Большого Китая
+Директор по маркетингу, CodeCombat Китай
 ru : about.run_title
-Начальник отдела операций, CodeCombat Большого Китая
+Операционный директор, CodeCombat Китай
 ru : about.lance_title
-Глава отдела технологий, CodeCombat Большого Китая
+Тех директор, CodeCombat Китай
 ru : about.zhiran_title
-Руководитель учебной программы, CodeCombat Большого Китая
+Директор по обучению, CodeCombat Китай
 ru : about.yuqiang_title
-Глава отдела инноваций, CodeCombat Большого Китая
+Директор по инновациям, CodeCombat Китай
 ru : about.maya_title
-Старший разработчик учебных программ
+Старший Методист
 ru : about.bill_title
-Генеральный директор, CodeCombat Большого Китая
+Директор филиала, CodeCombat Китай
 ru : about.brian_title
-Старший менеджер по игровому дизайну
+Старшйи менеджер по игровому дизайну
 ru : about.stephanie_title
-Специалист службы поддержки клиентов
+Специалист поддержки клиентов
 ru : about.story_statistic_1a
-20,000,000+
+5,000,000+
 ru : teachers_quote.state
-Область
+Регион
 ru : teachers_quote.referrer_default
-Выбери Один
+Выберите из
 ru : teachers_quote.referrer_conference
-Конференция (например, ISTE)
+Конференция
 ru : teachers_quote.referrer_teacher
-Учитель
+От учителя
 ru : teachers_quote.referrer_admin
-Администратор
+От руководителя
 ru : teachers_quote.referrer_student
-Студент
+От учеников
 ru : teachers_quote.full_name_required
-Имя и фамилия обязательны
+Необходимо имя и фамилия
 ru : clans.title
-Присоединяйтесь к кланам CodeCombat-научитесь программировать на Python, JavaScript и HTML
+Присоединяйтесь к кланам CodeCombat - Учите Python, JavaScript, и HTML
 ru : clans.clan_title
-__clan__ - Присоединяйтесь к кланам CodeCombat и научитесь программировать
+__clan__ - Присоединяйтесь к кланам CodeCombat и учитесь программированию.
 ru : clans.meta_description
-Присоединяйтесь к клану или создайте свое собственное сообщество программистов. Играйте на многопользовательских уровнях арены и повышайте уровень своего героя, а также свои навыки программирования.
+Присоеденитесь к клану или постройте свое сообщество. Играйте многопользовательское уровни и прокачивайте сцой уровень вместе с навыками программирования
 ru : courses.hoc_blurb1
-Попробуйте
+Попробовать
 ru : courses.hoc_blurb2
-Программируй, Играй, Делись
+Пиши, Играй, Делись
 ru : courses.hoc_blurb3
-данные вещи! Сделайте четыре различных мини-игр, чтобы узнать основы разработки игр, а затем создайте собственную игру!
+активность! Построй 4 разные мини-игры чтобы научится основам игровой разработки, а затем сделай свою игру
 ru : courses.view_map
-Посмотреть карту
+перейти к карте
 ru : courses.view_videos
-Посмотреть видео
+смотреть видео
 ru : courses.enter_c_code
-<Введите Код Класса>
+Введите Код Класса
 ru 114
 es-ES : options.music_label
-Música
+Musica
 es-ES : options.music_description
-Música de fondo on/off.
+Musica de fondo on/off.
 es-ES 2
 es-419 : new_home.become_investor
-Conviértete en un inversionista de CodeCombat
+para invertir en CodeCombat
 es-419 : new_home.click_here
-Click aquí
+Haz clic aquí
 es-419 : new_home.top_banner_blurb
-¡Padres, denle a su hijo el regalo de la codificación y la instrucción personalizada con nuestros maestros en vivo!
+Nuevo: ¡Únete a nuestra misión!
 es-419 : nav.browser_recommendation
-Para obtener la mejor experiencia, recomendamos utilizar la última versión de Chrome. ¡Descarga el navegador aquí!
+Para una mejor experiencia, recomendamos usar la última versión de Chrome. ¡Descarga el navegador aquí!
 es-419 : nav.ozaria_classroom
-Aula Ozaria
+Aula de Ozaria
 es-419 : nav.codecombat_classroom
-Aula CodeCombat
+Aula de CodeCombat
 es-419 : nav.ozaria_dashboard
-Tablero de Ozaria
+Panel de Ozaria
 es-419 : nav.codecombat_dashboard
-Tablero de CodeCombat
+Panel de CodeCombat
 es-419 : nav.new
-Nuevo!
+¡Nuevo!
 es-419 : nav.admin
-Administrador
+Admin
 es-419 : play.title
-Juega los Niveles de - Aprende Python, JavaScript, y HTML
+Juega los niveles de CodeCombat - Aprende Python, JavaScript y HTML
 es-419 : play.meta_description
-Aprende a programar con un juego de programacion para principiantes. Aprende Python o JavaScript mientras resuelves laberintos, creas tus propios juegos, y subes de nivel. Reta a tus amigos en los niveles de arenas multijugador!
+Aprende a programar con un juego para principiantes. Aprende Python o JavaScript mientras resuelves acertijos, crea tus propios videojuegos y sube de nivel. ¡Desafía a tus amigos en niveles de arena multijugador!
 es-419 : play.level_title
-__nivel__ - Aprende a programar en Python, JavaScript, HTML
+__level__ - Aprende a programar en Python, JavaScript y HTML
 es-419 : play.video_title
-__video__ | Video de Nivel
+__video__ | Nivel de video
 es-419 : play.game_development_title
-__nivel__ | Desarollo de Juegos
+__level__ | Desarrollo de juegos
 es-419 : play.web_development_title
-_nivel__ | Desarrollo de Paginas Web
+__level__ | Desarrollo web
 es-419 : signup.password_requirements
-8 a 64 caracteres sin repetición
+Entre 8 y 64 caracteres no repetidos
 es-419 : signup.invalid
-Inválido
+No válido
 es-419 : signup.invalid_password
-Contraseña invalida
+Contraseña no válida
 es-419 : common.default_title
-CodeCombat - Juegos de programacion para aprender Python y JavaScript
+Ozaria - Informática que fascina
 es-419 : common.default_meta_description
-Aprende codigos a traves de un juego de programacion. Aprende Python, JavaScript, y HTML mientras resuelves laberintos y aprendes a programar tus propios juegos y sitios web.
+Ozaria es un programa de ciencias de la computación, un juego de aventura y una historia de fantasía en la que los estudiantes deben dominar la magia perdida de la programación para salvar al mundo.
 es-419 : common.replay
-Repetir
+Volver a jugar
 es-419 : common.complete
-Completar
+Completado
 es-419 : general.email_us
-envianos un email
+Envíanos un correo electrónico
 es-419 : general.support
-Soporte
+Ayuda
 es-419 : play_level.restart_really
-¿Quieres reiniciar este nivel? Perderas todo el codigo que has escrito.
+¿Seguro que quieres reiniciar el nivel? Perderás todo el código que has escrito.
 es-419 : play_level.restart_confirm
-Sí, Reiniciar
+Sí, reiniciar
 es-419 : play_level.tip_javascript_java
-Java es a JavaScript lo mismo que Comer es a Comercial. - Chris Heilmann
+Java es a Javascript lo mismo que Comer es a Comercial. - Chris Heilmann
 es-419 : play_level.command_bank
-Banco de Comandos
+Banco de códigos
 es-419 : play_level.learning_goals
-Metas de Aprendizaje
+Metas de aprendizaje
 es-419 : play_level.start
-Iniciar
+Empezar
 es-419 : play_level.click_to_continue
-Click para Continuar
+Haz clic para continuar
 es-419 : about.title
-Acerca de CodeCombat: involucrar a los estudiantes, empoderar a los maestros, inspirar la creación
+Acerca de CodeCombat - Involucrar a estudiantes, empoderar a docentes, inspirar la creación
 es-419 : about.meta_description
-Nuestra misión es nivelar la informática a través del aprendizaje basado en juegos y hacer que la codificación sea accesible para todos los alumnos. Creemos que la programación es mágica y queremos que los alumnos estén capacitados para crear cosas a partir de la imaginación pura.
+Nuestra misión es equilibrar los niveles de informática mediante el aprendizaje basado en juego y hacer que la programación sea accesible para todo el que quiera aprender. Creemos que la programación es magia y queremos que los estudiantes tengan la capacidad de crear lo que quieran con solo imaginarlo.
 es-419 : about.story_statistic_1a
-+20,000,000
++5,000,000
 es-419 : about.story_statistic_2b
-+190 países
++200 países
 es-419 : teachers_quote.full_name_required
-Nombre y apellido obligatorios
+Nombre y apellido requeridos
 es-419 : cinematic.click_anywhere_continue
-haga clic en cualquier lugar para continuar
+haz clic en cualquier lado para continuar
 es-419 : clans.title
-Únase a los clanes de CodeCombat: aprenda a codificar en Python, JavaScript y HTML
+Únete a los clanes de CodeCombat - Aprende a programar en Python, JavaScript y HTML
 es-419 : clans.clan_title
-__clan__ - Únase a los clanes de CodeCombat y aprenda a codificar
+__clan__ - Únete a los clanes de CodeCombat y aprende a programar
 es-419 : clans.meta_description
-Únete a un clan o crea tu propia comunidad de programadores. Juega niveles de arena multijugador y sube de nivel a tu héroe y tus habilidades de codificación.
+Únete a un clan o crea tu propia comunidad de programadores. Juega en niveles de arena multijugador y mejora tu héroe y tus habilidades de programación.
 es-419 : contribute.archmage_attribute_1_suf
-, o un deseo de aprender. La mayor parte de nuestro código está en este lenguaje. Si eres un fan de Python o Ruby, te sentirás en casa. Es JavaScript, pero con un mejor syntax.
+, o un deseo de aprender. La mayor parte de nuestro código está en este lenguaje. Si eres un fan de Python o Ruby, te sentirás en casa. Es Javascript, pero con un mejor syntax.
 es-419 : contribute.diplomat_introduction_pref
-Así, si hemos aprendido algo desde el 
+Hemos aprendido algo gracias a la 
 es-419 43
 fr : about.story_statistic_1a
-plus de 20,000,000
+plus de 5,000,000
 fr : teacher.teacher_quest_teach_strings_step2
-Positionnez le sélecteur de niveaux des professeurs sur la page [Guide des cours](/teachers/courses)pour prévisualiser True Names.
+Positionnez le sélecteur de niveaux des professeurs sur la page [Guide des cours](/teachers/courses)pour prévisualiser __True Names__.
 fr : teacher.teacher_quest_teach_loops_step2
-Utilisez la Loops Activity dans le [guide du Curriculum CS1](/teachers/resources/cs1) to reinforce this concept.
+Utilisez la __Loops Activity__ dans le [guide du Curriculum CS1](/teachers/resources/cs1) to reinforce this concept.
 fr : hoc_2018.about_copy
-CodeCombat est un programme d'informatique basé sur le jeu pour enseigner le vrai Python et JavaScript. Le programme d'études conforme aux normes de CodeCombat s'articule autour d'un jeu que les élèves adorent. Plus de 20 millions d'étudiants ont appris à coder sur CodeCombat !
+CodeCombat est un programme d'informatique basé sur le jeu pour enseigner le vrai Python et JavaScript. Le programme d'études conforme aux normes de CodeCombat s'articule autour d'un jeu que les élèves adorent. Plus de 12 millions d'étudiants ont appris à coder sur CodeCombat !
 fr 4
 pt-PT : play_level.project_complete
-Projeto Concluído!
+Projeto Completado!
 pt-PT : about.story_statistic_1a
-20,000,000+
+5,000,000+
 pt-PT 2
 pt-BR : play_level.reload_really
-Você tem certeza que quer recarregar o nível?
+Você tem certeza que quer reiniciar o nível?
 pt-BR : about.story_statistic_1a
-20,000,000+
+5,000,000+
 pt-BR : about.story_statistic_2b
-190+ países
+200+ países
 pt-BR : teacher.teacher_quest_teach_methods_step1
-Obtenha 75% de pelo menos uma aula no primeiro nível, Dungeons of Kithgard
+Obtenha 75% de pelo menos uma aula no primeiro nível, __Dungeons of Kithgard__
 pt-BR : teacher.teacher_quest_teach_methods_step2
-Imprima o [Student Quick Start Guide](https://files.codecombat.com/docs/resources/StudentQuickStartGuide.pdf) em Recursos do Professor.
+Imprima o [Student Quick Start Guide](http://files.codecombat.com/docs/resources/StudentQuickStartGuide.pdf) em Recursos do Professor.
 pt-BR : teacher.teacher_quest_teach_strings_step1
-Obtenha 75% de pelo menos uma aula através de True Names
+Obtenha 75% de pelo menos uma aula através de __True Names__
 pt-BR : teacher.teacher_quest_teach_strings_step2
-Use o seletor de nível de professor na página [Course Guides](/teachers/courses) para prever True Names.
+Use o seletor de nível de professor na página [Course Guides](/teachers/courses) para prever __True Names__.
 pt-BR : teacher.teacher_quest_teach_loops_step1
-Obtenha 75% de pelo menos uma aula através de Fire Dancing.
+Obtenha 75% de pelo menos uma aula através de __Fire Dancing__.
 pt-BR : teacher.teacher_quest_teach_loops_step2
-Use Loops Activity em [CS1 Curriculum guide](/teachers/resources/cs1) para reforçar este conceito.
+Use __Loops Activity__ em [CS1 Curriculum guide](/teachers/resources/cs1) para reforçar este conceito.
 pt-BR : teacher.teacher_quest_teach_variables_step1
-Obtenha 75% de pelo menos uma aula através de Known Enemy.
+Obtenha 75% de pelo menos uma aula através de __Known Enemy__.
 pt-BR : teacher.teacher_quest_kithgard_gates_100_step1
-Obtenha 75% de pelo menos uma aula através de Kithgard Gates.
+Obtenha 75% de pelo menos uma aula através de __Kithgard Gates__.
 pt-BR : teacher.teacher_quest_kithgard_gates_100_step2
-Oriente os alunos a pensarem sobre problemas difíceis usando [Engineering Cycle Worksheet](https://files.codecombat.com/docs/resources/EngineeringCycleWorksheet.pdf).
+Oriente os alunos a pensarem sobre problemas difíceis usando [Engineering Cycle Worksheet](http://files.codecombat.com/docs/resources/EngineeringCycleWorksheet.pdf).
 pt-BR : teacher.teacher_quest_wakka_maul_100_step1
-Obtenha 75% de pelo menos uma aula através de Wakka Maul.
+Obtenha 75% de pelo menos uma aula através de __Wakka Maul__.
 pt-BR 13
 ar : diplomat_suggestion.title
-مساعدة في ترجمة كودكومبات!
+مساعدة في ترجمة CodeCombat!
 ar : diplomat_suggestion.pitch_body
-نحن نطوّر كودكومبات باللّغة الإنجليزيّة، ولكن لدينا بالفعل لاعبين في جميع أنحاء العالم. كثير منهم يريدون اللّعب باللّغة العربيّة ولكن لا يتحدثون الإنجليزيّة، حتى إذا كنت أستطيع أن أتكلّم على حد سواء، يرجى النّظر في التوقيع على أن يكون دبلوماسيّا والمساعدة في ترجمة كل من موقع كودكومبات وجميع المستويات إلى العربيّة.
+نحن نطوّر CodeCombat باللّغة الإنجليزيّة، ولكن لدينا بالفعل لاعبين في جميع أنحاء العالم. كثير منهم يريدون اللّعب باللّغة العربيّة ولكن لا يتحدثون الإنجليزيّة، حتى إذا كنت أستطيع أن أتكلّم على حد سواء، يرجى النّظر في التوقيع على أن يكون دبلوماسيّا والمساعدة في ترجمة كل من موقع CodeCombat وجميع المستويات إلى العربيّة.
 ar : contact.contact_us
-الاتّصال بـ كودكومبات
+الاتّصال بـ CodeCombat
 ar : contact.faq
-الاسئلة الشائعة
+FAQ
 ar : account_settings.wrong_email
-البريد الإلكتروني خاطئ
+Email خاطئ
 ar : account_settings.type_in_email
-اكتب بريدك الإلكتروني لتأكيد حذف حسابك.
+اكتب في البريد الإلكتروني الخاص بك لتأكيد الحساب الحذف.
 ar 6
 az 0
 bg 0
 ca : about.story_statistic_1a
-Més de 20,000,000
+Més de 5,000,000
 ca : teacher.teacher_quest_teach_methods_step1
-Tenir el 75% com a mínim d'una classe amb el primer nivell passat, Dungeons of Kithgard
+Tenir el 75% com a mínim d'una classe amb el primer nivell passat, __Dungeons of Kithgard__
 ca : teacher.teacher_quest_teach_methods_step2
-Imprimir la [Guia d'introducció per l'alumnat](https://files.codecombat.com/docs/resources/StudentQuickStartGuide.pdf) del Centre de Recursos.
+Imprimir la [Guia d'introducció per l'alumnat](http://files.codecombat.com/docs/resources/StudentQuickStartGuide.pdf) del Centre de Recursos.
 ca : teacher.teacher_quest_teach_strings_step1
-Tenir el 75% com a mínim d'una classe amb True Names passat
+Tenir el 75% com a mínim d'una classe amb __True Names__ passat
 ca : teacher.teacher_quest_teach_strings_step2
-Usar el Selector de Nivells del Professorat a la plana [Guies del Curs](/teachers/courses) per tenir una vista prèvia de True Names.
+Usar el Selector de Nivells del Professorat a la plana [Guies del Curs](/teachers/courses) per tenir una vista prèvia de __True Names__.
 ca : teacher.teacher_quest_teach_loops_step1
-Tenir el 75% com a mínim d'una classe amb Fire Dancing passat.
+Tenir el 75% com a mínim d'una classe amb __Fire Dancing__ passat.
 ca : teacher.teacher_quest_teach_loops_step2
-Usar el Loops Activity en la [CS1 Guia del Currículum](/teachers/resources/cs1) per reforçar aquest concepte.
+Usar el __Loops Activity__ en la [CS1 Guia del Currículum](/teachers/resources/cs1) per reforçar aquest concepte.
 ca : teacher.teacher_quest_teach_variables_step1
-Tenir el 75% com a mínim d'una classe amb Known Enemy passat.
+Tenir el 75% com a mínim d'una classe amb __Known Enemy__ passat.
 ca : teacher.teacher_quest_kithgard_gates_100_step1
-Tenir el 75% com a mínim d'una classe amb Kithgard Gates passat.
+Tenir el 75% com a mínim d'una classe amb __Kithgard Gates__ passat.
 ca : teacher.teacher_quest_kithgard_gates_100_step2
-Guiar l'alumnat per pensar en problemes difícils usant el [Full de cicle d'enginyeria](https://files.codecombat.com/docs/resources/EngineeringCycleWorksheet.pdf).
+Guiar l'alumnat per pensar en problemes difícils usant el [Full de cicle d'enginyeria](http://files.codecombat.com/docs/resources/EngineeringCycleWorksheet.pdf).
 ca : teacher.teacher_quest_wakka_maul_100_step1
-Tenir el 75% com a mínim d'una classe amb Wakka Maul passat.
+Tenir el 75% com a mínim d'una classe amb __Wakka Maul__ passat.
 ca 11
 cs : nav.faqs
-FAQ (často kladené otázky)
+FAQ
 cs : diplomat_suggestion.sub_heading
-Potřebujeme vaše jazykové znalosti.
+Potřebujeme vaše dovednosti.
 cs : play.campaign_multiplayer_description
-... ve které programujete proti jiným hráčům.
+...ve které programujete proti jiným hráčům.
 cs : share_progress_modal.form_blurb
-Vložte e-mail svých rodičů níže a my už je kontaktujeme!
+Vložte jejich e-mail níže a my už je kontaktujeme!
 cs : signup.email_announcements
-Dostávat novinky o nových úrovních a funkcích CodeCombat
+Dostávat novinky emailem
 cs : general.withdrawn
-Odvoláno
+Uzavřeno
 cs 6
 da : share_progress_modal.form_blurb
-Indtast din forælders e-mail nedenfor, så viser vi dem det!
+Indtast din forælders email nedenfor, så viser vi dem det!
 da : about.story_statistic_1a
-20.000.000+
+5.000.000+
 da : about.story_statistic_2b
-190+ lande
+200+ lande
 da 3
 de-DE : new_home.slogan
-Das beste Spiel, um Programmieren zu lernen.
+Das beste Spiel um Programmieren zu lernen.
 de-DE : new_home.classroom_in_a_box
-Ein Klassenraum in-einer-Box, um Informatik zu lehren.
+Ein Klassenraum in-einer-Box um Informatik zu lehren.
 de-DE : new_home.codecombat_is
-CodeCombat ist eine Plattform für <strong>Schüler</strong>, um Informatik zu lernen, während sie ein echtes Spiel spielen.
+CodeCombat ist eine Plattform für <strong>Schüler</strong>, um Informatik zu lernen während sie ein echtes Spiel spielen.
 de-DE : new_home.our_courses
-Unsere Kurse wurden genau getestet, um im <strong>Klassenraum</strong> zu bestehen, auch bei Lehrkräften mit wenig bis keiner Programmiererfahrung.
+Unsere Kurse wurden genau getestet um im <strong>Klassenraum</strong> zu bestehen, auch bei Lehrkräften mit wenig bis keiner Programmiererfahrung.
 de-DE : new_home.top_screenshots_hint
-Schüler schreiben Code, und ihre Veränderungen werden in Echtzeit sichtbar
+Schüler schreiben Code und ihre Veränderungen werden in Echtzeit sichtbar
 de-DE : new_home.designed_with
-Entwickelt, um Lehrkräften zu helfen
+Entwickelt um Lehrkräften zu helfen
 de-DE : new_home.democratizing
-Jeder sollte Programmieren lernen können. Wir wollen den Prozess des Programmierenlernens demokratisieren.
+Jeder sollte Programmieren lernen können. Wir wollen den den Prozess der Programmierenlernens demokratisieren.
 de-DE : new_home.forgot_learning
-Ich glaube, sie vergessen sogar, dass sie gerade etwas lernen.
+Ich glaube sie vergessen sogar, dass sie gerade etwas lernen.
 de-DE : new_home.wanted_to_do
-Programmieren ist etwas, was ich immer wollte, und ich hätte nie gedacht, dass ich es in der Schule lernen könnte.
+ Programmieren ist etwas was ich immer wollte und ich hätte nie gedacht, dass ich es in der Schule lernen könnte.
 de-DE : new_home.encourage
-Spiele sind ein Medium, das Interaktionen, Entdeckungen und Versuch-und-Irrtum fördert. Ein gutes Spiel fordert den Spieler dazu auf, Fähigkeiten über die Zeit hinweg zu erwerben, was der selbe entscheidende Prozess ist, durch den Schüler gehen, während sie etwas lernen.
+Spiele sind ein Medium, das Interaktionen, Entdeckungen und Versuch-und-Irrtum fördert. Ein gutes Spiel fordert den Spieler dazu auf Fähigkeiten über die Zeit hinweg zu erwerben, was der selbe entscheidende Prozess ist, durch den Schüler gehen, während sie etwas lernen.
 de-DE : new_home.kind_of_struggle
-, also den Anstrengungen die in einem Lernen resultieren, das gewinnbringend und
+, also den Anstrengungen die in einem Lernen resultieren, dass gewinnbringend und
 de-DE : new_home.gaming_is_good
-Studien legen nahe, dass spielen gut für das kindliche Gehirn ist. (Das stimmt!)
+Studien legen nahe, dass spielen gut für das kindliche Gehirn ist. (Es ist wahr!)
 de-DE : new_home.conventional
-ist der Unterschied klar: Spiele sind besser darin, den Schülern beim Wissenserwerb zu helfen, sich zu konzentrieren und darin, eine
+ist der Unterschied klar: Spiele sind besser darin den Schülern zu helfen Wissen zu erwerben, sich zu konzentrieren und darin eine
 de-DE : new_home.feedback
-Spiele bieten außerdem ein Echtzeit-Feedback, das den Schülern erlaubt, ihre Lösungswege anzupassen und Konzepte ganzheitlich zu verstehen, anstelle nur limitiert zu sein auf Antworten des Typs “Korrekt“ oder “Inkorrekt“.
+Spiele bieten außerdem ein Echtzeit Feedback, das den Schülern erlaubt ihre Lösungswege anzupassen und Konzepte ganzheitlich zu verstehen, anstelle nur limitiert zu sein auf  “Korrekt“ oder  “Inkorrekt“ Antworten.
 de-DE : new_home.great_game
-In einem guten Spiel geht es um mehr als nur Abzeichen und Erfolge - es geht um die Reise eines Spielers, gut-designte Rätsel, und die Fähigkeit, Herausforderungen mit Kraft und Selbsvertrauen anzupacken.
+In einem guten Spiel geht es um mehr als nur Abzeichen und Erfolge - es geht um die Reise eines Spielers, gut-designte Rätsel, und die Fähigkeit Herausforderungen mit Kraft und Selbsvertrauen anzupacken.
 de-DE : new_home.agency
-CodeCombat ist ein Spiel, das Spielern die Kraft und das Selbstbewusstsein gibt, durch unsere robuste Programmiereingabe-Engine, die sowohl Anfänger als auch fortgeschrittenen Schülern dabei hilft, richtigen, validen Code zu schreiben.
+CodeCombat ist ein Spiel, das Spielern die Kraft und das Selbstbewusstsein gibt durch unsere robuste Programmiereingabe-Engine, die sowohl Anfänger als auch fortgeschrittenen Schülern dabei hilft richtigen, validen Code zu schreiben.
 de-DE : new_home.boast
-Bietet Rätsel, die komplex genug sind, um Spieler und Programmierer zu faszinieren.
+Bietet Rätsel die komplex genug sind um Spieler und Programmiere zu faszinieren.
 de-DE : new_home.winning
-Eine gewinnbringende Kombination aus RPG-Gameplay und Programmierhausaufgaben, die aufgeht und kindgerechte Bildung berechtigterweise unterhaltsam macht.
+Eine gewinnbringende Kombination aus RPG-Gameplay und Programmierhausaufgaben die aufgeht und kindgerechte Bildung berechtigterweise unterhaltsam macht.
 de-DE : new_home.run_class
-Alles, was man braucht, um einen Informatikkurs in der Schule zu geben, ohne dass man Hintergrundwissen braucht.
+Alles was man braucht um einen Informatikkurs in der Schule zu geben, ohne dass man Hintergrundwissen braucht.
 de-DE : new_home.want_coco
-Wollen Sie CodeCombat an Ihrer Schule einsetzen?
+Wollen Sie CodeCombat an ihrer Schule?
 de-DE : diplomat_suggestion.pitch_body
-Wir entwickeln CodeCombat in Englisch, aber wir haben Spieler in der ganzen Welt. Viele von ihnen wollen auf Deutsch spielen, sprechen aber kein Englisch. Wenn du also beide Sprachen beherrschst, melde dich an, um ein Diplomat zu werden und hilf, die Website und die Levels ins Deutsche zu übersetzen.
+Wir entwickeln CodeCombat in Englisch, aber wir haben Spieler in der ganzen Welt. Viele von ihnen wollen auf Deutsch spielen, sprechen aber kein Englisch. Wenn du also beide Sprachen beherrschst, melde dich an, um ein Diplomat zu werden und hilf die Website und die Levels ins Deutsche zu übersetzen.
 de-DE : about.story_statistic_1a
-Mehr als 20,000,000
+Mehr als 5,000,000
 de-DE : about.story_statistic_2b
-190 Staaten
+200 Staaten
 de-DE : teacher.teacher_quest_teach_methods_step1
-Bringe 75% mindestens einer Klasse durch das erste Level, Dungeons of Kithgard
+Bringe 75% mindestens einer Klasse durch das erste Level, __Dungeons of Kithgard__
 de-DE : teacher.teacher_quest_teach_methods_step2
-Drucke die [Student Quick Start Guide](https://files.codecombat.com/docs/resources/StudentQuickStartGuide.pdf) im Resource Hub aus.
+Drucke die [Student Quick Start Guide](http://files.codecombat.com/docs/resources/StudentQuickStartGuide.pdf) im Resource Hub aus.
 de-DE : teacher.teacher_quest_teach_strings_step1
-Bringe 75% mindestens einer Klasse durch  True Names
+Bringe 75% mindestens einer Klasse durch  __True Names__
 de-DE : teacher.teacher_quest_teach_strings_step2
-Benutze den Teacher Level Selector auf der [Kurs-Handbücher](/teachers/courses) Seite für eine Vorschauf auf True Names.
+Benutze den Teacher Level Selector auf der [Kurs-Handbücher](/teachers/courses) Seite für eine Vorschauf auf __True Names__.
 de-DE : teacher.teacher_quest_teach_loops_step1
-Bringe 75% mindestens einer Klasse durch Fire Dancing.
+Bringe 75% mindestens einer Klasse durch __Fire Dancing__.
 de-DE : teacher.teacher_quest_teach_loops_step2
-Nutze Loops Activity im [CS1 Curriculum guide](/teachers/resources/cs1) um diese Konzept zu vertiefen.
+Nutze __Loops Activity__ im [CS1 Curriculum guide](/teachers/resources/cs1) um diese Konzept zu vertiefen.
 de-DE : teacher.teacher_quest_teach_variables_step1
-Bringe 75% mindestens einer Klasse durch Known Enemy.
+Bringe 75% mindestens einer Klasse durch __Known Enemy__.
 de-DE : teacher.teacher_quest_kithgard_gates_100
-Schreite mit der Klasse durch Kithgard Gates.
+Schreite mit der Klasse durch __Kithgard Gates__.
 de-DE : teacher.teacher_quest_kithgard_gates_100_step1
-Bringe 75% mindestens einer Klasse durch Kithgard Gates.
+Bringe 75% mindestens einer Klasse durch __Kithgard Gates__.
 de-DE : teacher.teacher_quest_kithgard_gates_100_step2
-Nutze den [Engineering Cycle Worksheet](https://files.codecombat.com/docs/resources/EngineeringCycleWorksheet.pdf) um Schüler mit systematischen Problemlösungsstategien vertrautzumachen.
+Nutze den [Engineering Cycle Worksheet](http://files.codecombat.com/docs/resources/EngineeringCycleWorksheet.pdf) um Schüler mit systematischen Problemlösungsstategien vertrautzumachen.
 de-DE : teacher.teacher_quest_wakka_maul_100_step1
-Bringe 75% mindestens einer Klasse durch Wakka Maul.
+Bringe 75% mindestens einer Klasse durch __Wakka Maul__.
 de-DE : hoc_2018.about_copy
-CodeCombat ist ein Spiel-basiertes Informatikprogramm um echtes Python und JavaScript zu lehren. CodeCombat ist an Standardlehrplänen ausgerichtet und um ein Spiel herum gebaut, das Schüler lieben. Über 20 Millionen Schüler haben mit CodeCombat programmieren gelernt!
+CodeCombat ist ein Spiel-basiertes Informatikprogramm um echtes Python und JavaScript zu lehren. CodeCombat ist an Standardlehrplänen ausgerichtet und um ein Spiel herum gebaut, das Schüler lieben. Über 12 Millionen Schüler haben mit CodeCombat programmieren gelernt!
 de-DE 35
 de-AT 0
 de-CH : common.send
-schicke
+G'sendet
 de-CH : general.ranger
-Waldhüeter
+Ranger
 de-CH 2
 et 0
 el : about.story_statistic_1a
-20,000,000+
+5,000,000+
 el : teacher.teacher_quest_teach_methods_step1
-Φτάσετε στο 75% τουλάχιστον μιας τάξης μέσω του πρώτου επιπέδου, Dungeons of Kithgard
+Φτάσετε στο 75% τουλάχιστον μιας τάξης μέσω του πρώτου επιπέδου, __Dungeons of Kithgard__
 el : teacher.teacher_quest_teach_methods_step2
-Εκτυπώστε τον [Οδηγός Γρήγορης Εκκίνησης Μαθητή](https://files.codecombat.com/docs/resources/StudentQuickStartGuide.pdf) στο Κέντρο Υλικού.
+Εκτυπώστε τον [Οδηγός Γρήγορης Εκκίνησης Μαθητή](http://files.codecombat.com/docs/resources/StudentQuickStartGuide.pdf) στο Κέντρο Υλικού.
 el : teacher.teacher_quest_teach_strings_step1
-Φτάσετε στο 75% τουλάχιστον μιας τάξης μέσω του True Names
+Φτάσετε στο 75% τουλάχιστον μιας τάξης μέσω του __True Names__
 el : teacher.teacher_quest_teach_strings_step2
-Χρησιμοποιήστε τον Επιλογέα Επιπέδου του Δασκάλου στη σελίδα [Οδηγοί Μαθημάτων](/teachers/courses) για να κάνετε επισκόπηση του True Names.
+Χρησιμοποιήστε τον Επιλογέα Επιπέδου του Δασκάλου στη σελίδα [Οδηγοί Μαθημάτων](/teachers/courses) για να κάνετε επισκόπηση του __True Names__.
 el : teacher.teacher_quest_teach_loops_step1
-Φτάσετε στο 75% τουλάχιστον μιας τάξης μέσω του Fire Dancing.
+Φτάσετε στο 75% τουλάχιστον μιας τάξης μέσω του __Fire Dancing__.
 el : teacher.teacher_quest_teach_loops_step2
-Χρησιμοποιήστε την Loops Activity στο [Πληροφορική 1 Οδηγός Προγράμματος Μαθημάτων](/teachers/resources/cs1) για να ενισχύσετε αυτή την έννοια.
+Χρησιμοποιήστε την __Loops Activity__ στο [Πληροφορική 1 Οδηγός Προγράμματος Μαθημάτων](/teachers/resources/cs1) για να ενισχύσετε αυτή την έννοια.
 el : teacher.teacher_quest_teach_variables_step1
-Φτάσετε στο 75% τουλάχιστον μιας τάξης μέσω του Known Enemy.
+Φτάσετε στο 75% τουλάχιστον μιας τάξης μέσω του __Known Enemy__.
 el : teacher.teacher_quest_kithgard_gates_100_step1
-Φτάσετε στο 75% τουλάχιστον μιας τάξης μέσω του Kithgard Gates.
+Φτάσετε στο 75% τουλάχιστον μιας τάξης μέσω του __Kithgard Gates__.
 el : teacher.teacher_quest_kithgard_gates_100_step2
-Κατευθύνετε τους μαθητές να επεξεργάζονται δύσκολα προβλήματα χρησιμοποιώντας το [Φύλλο Εργασίας Μηχανικού Κύκλου](https://files.codecombat.com/docs/resources/EngineeringCycleWorksheet.pdf).
+Κατευθύνετε τους μαθητές να επεξεργάζονται δύσκολα προβλήματα χρησιμοποιώντας το [Φύλλο Εργασίας Μηχανικού Κύκλου](http://files.codecombat.com/docs/resources/EngineeringCycleWorksheet.pdf).
 el : teacher.teacher_quest_wakka_maul_100_step1
-Φτάσετε στο 75% τουλάχιστον μιας τάξης μέσω του Wakka Maul.
+Φτάσετε στο 75% τουλάχιστον μιας τάξης μέσω του __Wakka Maul__.
 el 11
 eo 0
 fil 0
 fa 0
 gl 0
 ko : new_home.teaching_computer_science
-우리는 어떤 배경을 가진 교육자라도 지원할 수 있는 도구를 가지고 있기 때문에, 컴퓨터 공학을 가르치는 것은 비싼 학위를 필요로 하지 않습니다.
+우리는 어떤 배경을 가진 교육자라도 지원하는 도구를 가지고 있기 때문에, 컴퓨터 공학을 가르치는 것은 비싼 학위를 필요로하지 않습니다.
 ko : new_home.request_demo_subtitle
-학생들이 한 시간 이내에 시작할 수 있도록 데모를 요청하세요.
+학생들이 한시간 이내에 시작할 수 있도록 데모를 요청하세요.
 ko : new_home.logged_in_as
-당신은 다음 계정으로 로그인되어 있습니다.
+당신은 다음 계정으로 로그인되어있습니다.
 ko : new_home.run_class
-당신이 해야 할 일은 오늘 학교에서 컴퓨터 공학 수업을 실행하는 것입니다. 어떠한 컴퓨터 공학 배경지식도 필요하지 않습니다.
+당신이 해야할 일은 오늘 학교에서 컴퓨터공학수업을 실행하는 것입니다. 어떠한 컴퓨터공학 배경지식도 필요하지 않습니다.
 ko : nav.contribute
-기여하기
+참여하기
 ko : diplomat_suggestion.sub_heading
-저희는 당신의 언어 능력이 필요합니다.
+우리는 당신의 언어 능력이 필요합니다.
 ko : diplomat_suggestion.pitch_body
-저희는 영어로 코드 컴뱃을 개발하기 시작했지만, 이미 전세계의 유저들이 코드 컴뱃을 이용하고 있습니다. 그 중 많은 사람들이 한국어로 플레이하기를 바랍니다. 혹시 당신이 영어/한국어에 모두 능숙하다면, 외교관(Diplomate)으로 코드 컴뱃에 참여해서 모든 레벨 뿐만 아니라 웹사이트를 한국어로 번역할 수 있습니다.
+우리는 영어로 코드 컴뱃을 개발하기 시작했지만, 이미 전세계의 유저들이 코드 컴뱃을 이용하고 있습니다. 그 중 많은 사람들이 한국어로 플레이하기를 바랍니다. 혹시 당신이 영어/한국어에 모두 능숙하다면, 외교관(Diplomate)으로 코드 컴뱃에 참여해서 모든 레벨 뿐만 아니라 웹사이트를 한국어로 번역할 수 있습니다.
 ko : diplomat_suggestion.missing_translations
-저희가 모든 내용을 한국어로 번역할 때까지 기본은 영어로 제공됩니다.
+우리가 모든 내용을 한국어로 번역할 때까지 기본은 영어로 제공됩니다.
 ko : play.spectate
-관중 모드
+관중모드
 ko : play.available
-사용 가능
+가능
 ko : play.awaiting_levels_adventurer
-모험가로 등록 하세요!
+모험자로 등록 하세요!
 ko : play.campaign_multiplayer_description
-... 이곳에서 당신은 다른 플레이어(사람들)과 직접 결투할 수 있습니다.
+... 이곳에서 당신은 다른 플레이어들(사람들)과 직접 결투할 수 있습니다.
 ko : share_progress_modal.blurb
-당신은 큰 진전을 보이고 있습니다! 당신이 코드컴뱃으로 얼마나 많이 배웠는지 부모님께 자랑하세요.
+당신은 큰 진전을 보이고 있습니다! 당신이 코드컴뱃으로 얼마나 많이 배웠는지 부모님께 자랑하십시오.
 ko : login.sign_in_with_gplus
-Google+로 로그인
+G+로 로그인
 ko : signup.name_taken
-누군가가 사용 중인 이름입니다! {{suggestedName}}는 어때요?
+누군가가 사용 중인 Username입니다! {{suggestedName}}는 어때요?
 ko : signup.name_available
-사용 가능한 이름입니다!
+사용 가능한 Username입니다!
 ko : signup.name_is_email
-이메일 주소와 사용자명을 동일하게 설정할 수 없습니다.
+Username은 이메일 주소로 할 수 없습니다.
 ko : signup.student_type_5
- 클래스 코드가 준비되어 있습니다!
+ 클래스 코드가 준비 되어있습니다!
 ko : signup.individual_type
- 클래스 기능을 이용하지 않을 경우에는 계정을 먼저 만들어야 합니다.
+ 클래스를 이용하지않고 이용하실 겨우에는 부모님이 계정을 먼저 만드세요.
 ko : signup.signup_as_individual
- 개인 계정을 생성하기 
+ 개인 계정을 생성 
 ko : signup.parent_use_birthdate
-학부모님인 경우에는 본인의 생일을 적어주세요.
+ 부모님의 생일을 적어주세요.
 ko : signup.sso_connected
-성공적으로 연결되었습니다:
+성공적으로 연결 되었습니다:
 ko : signup.teacher_ready_to_create_class
-첫 클래스를 생성할 준비가 다 되었습니다!
+첫 클래스를 생성 할 준비가 다 되어있습니다!
 ko : signup.teacher_students_can_start_now
-당신의 학생들은 첫 수업 '컴퓨터 과학 입문'을 바로 진행할 수 있습니다.
+당신의 학생들은 첫 수업 '전산학 개론'을 바로 진행할 수 있습니다.
 ko : signup.teacher_list_resource_hub_2
-게임 가이드
+게임 가이드.
 ko : signup.teacher_list_resource_hub_4
-리소스 허브
+자원 중심지
 ko : signup.teacher_list_resource_hub_5
-커리큘럼 가이드, 활동, 더 많은 정보를 알 수 있습니다.
+커리큘럼 가이드, 활동, 더 많은정보를 알 수 있습니다.
 ko : signup.eu_confirmation
-저는 제 정보들을 CodeCombat이 미국 서버에 저장하는 것을 허용합니다.
+나는 내 정보들을 CodeCombat이 미국 서버에 저장하는 것을 허용한다.
 ko : signup.eu_confirmation_place_of_processing
-다른 위험에 대해 알아봅시다.
+Learn more about the possible risks 다른 위험에 대해 알아봅시다.
 ko : signup.eu_confirmation_individual
-자신의 정보가 미국 서버에 저장되는 게 싫으시다면, 언제든지 익명으로 게임할 수 있습니다.
+자신의 정보가 미국 서버에 저장되는게 싫으시다면, 언제든지 익명으로 게임하시면 됩니다.
 ko : common.solution
-해결 방법
+해결책
 ko : play_level.concept_challenge_complete
-개념 이해 레벨 성공!
+도전 성공!
 ko : play_level.combo_challenge_complete
-콤보 레벨 성공
+도전 성공
 ko : play_level.failing
-다시 한번 더 도전해 보세요.
+다시 한번 더 도전해보세요.
 ko : play_level.reload_confirm
-코드 초기화하기
+코드 초기화
 ko : play_level.victory_hour_of_code_done_yes
-네. Hour of Code™를 완료했습니다!
+네 내 Hour of Code™ 완료했습니다!
 ko : play_level.check_dev_console
-뭐가 잘못되었는지 알아보기 위해 개발자 콘솔을 열 수도 있습니다.
+또한 잘못 갈 수를 알기 위해 개발자 콘솔을 열 수 있습니다.
 ko : play_level.infinite_loop_comment_out
-내 코드를 주석 처리하기
+내 코드를 일시적 주석처리하기
 ko : play_level.tip_toggle_play
-Ctrl+P로 실행을 계속하거나 멈출 수 있어요.
+Ctrl+P로 실행을 계속하거나 멈출수 있어요
 ko : play_level.tip_scrub_shortcut
-Ctrl+[, Ctrl+] 를 이용해 실행 속도를 빠르게 할 수 있어요.
+Ctrl+[, Ctrl+] 를 이용해 실행 속도를 빠르게 할 수 있어요
 ko : play_level.tip_tell_friends
-코드 컴뱃을 즐기셨나요? 친구에게 알려주십시오.
+코드 컴뱃을 즐기셨나요? 친구에게 알려주십시오
 ko : play_level.tip_think_solution
-해결 방법을 고민해보세요, 문제를 고민하지 말구요.
+해결 방법을 고민해보세요, 문제를 고민하지 말구요
 ko : play_level.tip_theory_practice
-이론적으로는, 이론과 실제 사이의 차이가 없습니다. 그러나 실제로 해 보면 차이가 있죠. - 요기 베라
+이론적으로, 이론과 실제 사이의 차이가 없습니다. 그러나 연습은, 실전입니다 - 요기 베라
 ko : play_level.tip_error_free
-오류 없는 프로그램을 만드는 방법이 두 가지 있는데요, 그 중에 세 번째 방법만이 효과가 있습니다. - 앨런 펠리스
+오류이거나-자유로운 프로그램을 작성하는 두가지 길이 있습니다만; 오직 세번째의 한 작업입니다. - 엘랜 펄리스
 ko : play_level.tip_debugging_program
-디버깅이 코드에서 오류를 제거하는 작업이라면 프로그래밍은 코드에 오류를 집어넣는 작업이죠. - 에츠허르 다익스트라
+만약 디버깅이 버그를 잡는 작업이라면, 프로그래밍은 반드시 바른 진행이여야 할것입니다. - Edsger W. Dijkstra
 ko : play_level.tip_forums
-포럼을 통해서 우리를 어떻게 생각하는지 말해주세요!
+포럼을 통해서 우리를 어떻게 생각하는지 말해요!
 ko : play_level.tip_baby_coders
-미래에는 아기조차도 대마법사가 될 수 있을 겁니다.
+앞으로는, 아기도 얼음마법사가 될 것 입니다.
 ko : play_level.tip_morale_improves
-사기가 향상될 때까지 로딩은 계속됩니다.
+사기가 향상 될 때까지 로딩은 계속됩니다.
 ko : play_level.tip_reticulating
-그물처럼 뻗어나가는 가시.
+그물모양의 돌기.
 ko : play_level.tip_great_responsibility
-위대한 코딩 기술에는 위대한 디버그 책임이 따릅니다.
+좋은 코딩 기술은 큰 디버그 책임을 몰고옵니다.
 ko : play_level.tip_munchkin
-야채를 먹지 않으면 munchkin이 밤에 당신을 찾아갈 거에요.
+만약 당신이 야채를 먹지않는다면, 난쟁이가 당신이 자고 있을때 찾아갑니다.
 ko : play_level.tip_binary
-세상에는 오직 10가지의 사람이 있죠: 이진법을 이해하는 사람들과 그렇지 않은 사람들.
+오직 사람들이 있는 세계는 10가지이다: 이진을 이해하는 사람들과 그렇지 않은 사람들.
 ko : play_level.tip_commitment_yoda
-프로그래머는 깊은 헌신과 진지한 마음을 가져야 한다. ~ 요다
+프로그래머가 깊은 헌신이 있어야한다는것은, 가장 심각한것이다. ~ 요다
 ko : play_level.tip_no_try
-하거라. 아니면 하지 말거라. 시도같은 건 없어. - 요다
+하든가 하지 말든가. 시도같은 건 없어. - 요다
 ko : play_level.tip_patience
-반드시 인내심을 가져야 한단다, 어린 파다완. - 요다
+반드시 인내심을 가져야한단다, 어린 파다완. - 요다
 ko : play_level.tip_documented_bug
-문서화 된 버그는 버그가 아닙니다; 그것은 기능입니다.
+문서화 된 버그는 버그가 아닙니다 ; 그것은 기능입니다.
 ko : play_level.tip_impossible
-성공하기 전까진 불가능해 보이는 법이죠. - 넬슨 만델라
+성공하기 전까진 불가능해 보이는 법이죠. - Nelson Mandela
 ko : play_level.tip_talk_is_cheap
-말로만 떠드는 건 가치가 없어요. 코드를 보여줘 봐요. - 리누스 토르발즈
+떠드는 건 가치가 없어요. 코드를 보여줘봐요. - Linus Torvalds
 ko : play_level.tip_first_language
-당신이 배울 수 있는 가장 끔찍한 것은 당신이 가장 처음 접하는 프로그래밍 언어입니다. - 엘랜 케이
+만약 당신이 배울 수있는 가장 최악의 일은 첫 번째 프로그래밍 언어을 배우는것입니다. - 엘랜 케이
 ko : play_level.tip_hardware_problem
-문제: 전구를 갈기 위해서 얼마나 많은 프로그래머가 필요할까요?  정답: 한 명도 필요 없습니다. 그건 하드웨어 문제잖아요.
+Q: 많은 프로그래머는 전구를 가는데 얼마나 걸립니까?  A: 아니오, 이것은 하드웨어 문제입니다.
 ko : play_level.tip_hofstadters_law
-호프스태터의 법칙: 모든 일은 생각했던 것보다 더 오래 걸립니다. 호프스태터의 법칙을 고려하더라도 말이죠.
+호프스태터 의 법칙: 당신은 항상 예상보다 오래 걸립니다, 계정 호프스태터의 법칙을 고려하더라도 .
 ko : play_level.tip_premature_optimization
-너무 이른 최적화는 모든 악의 근원입니다. - 도날드 크누스
+초기의 최적화는 모든 악의 뿌리입니다 . - 도날드 크누스
 ko : play_level.tip_brute_force
-의심스러울 때는 일단 완전 탐색을 사용해 보세요. - 켄 톰프슨
+의심할때, 무력을 사용하게 됩니다. - 켄 톰프손
 ko : play_level.tip_extrapolation
-세상에는 두 종류의 사람이 있습니다: 불완전한 데이터로부터 유추할 수 있는..
+사람은 두 가지 종류가 있습니다: 불완전한 데이터으로부터 유추할 수있는가...
 ko : play_level.tip_superpower
-우리가 전능함에 근접해지는 가장 빠른 방법은 코딩입니다.
+코딩은 우리가 강대국에 있는 가장 가까운 것입니다.
 ko : play_level.tip_control_destiny
-진짜 오픈 소스에서는, 당신이 당신의 운명을 스스로 만들어나갈 수 있습니다. - 리누스 토르발즈
+진짜 오픈 소스는, 당신이 우리의 운명을 올바로 조작할 수 있습니다. - 리눅스 토발츠
 ko : play_level.tip_no_code
-그 어떤 코드도 빈 코드만큼 빠르지는 않죠.
+코드가 없는것보다 빠른것은 없습니다.
 ko : play_level.tip_code_never_lies
-코드는 절대로 거짓말을 하지 않는다. 주석은 가끔 하지만.  — 론 제프리
+코드는 절대로 거짓말을 하지 않는다. 주석은 가끔 하지만.  — Ron Jeffries
 ko : play_level.tip_reusable_software
-소프트웨어가 재사용 가능해지려면 먼저 사용 가능해져야 하죠.
+소프트웨어를 재사용하기전에 먼저 사용할 수 있습니다.
 ko : play_level.tip_lines_of_code
-코드 분량으로 프로그램 개발의 진행 상황을 측정하는 것은 비행기를 만들 때 비행기의 무게로 진행 상황을 측정하는 것과 다를 바 없습니다. — 빌 게이츠
+코드 라인에 의해 프로그램의 진행 상황을 측정하는 것은 중량 항공기의 건축 진행 상황을 측정하는 것과 같다. — 빌 게이츠
 ko : play_level.tip_source_code
-저는 세계를 바꾸고 싶은데 세계가 저한테 소스 코드를 주지 않네요.
+나는 세계를 바꾸고싶어도 그들은 나에게 소스코드를 주지 않습니다
 ko : play_level.tip_javascript_java
-자바와 자바스크립트의 관계는 차와 차이코프스키의 관계와 비슷합니다. - 크리스 헤일만
+자바는 자바스크립트이고 차(카)는 카펫입니다. - 크리스 헤일만
 ko : play_level.tip_move_forward
-당신이 무얼 하든 간에, 계속 전진하십시오. - 마틴 루터 킹 주니어.
+당신이 무엇이든간에 , 계속 전진하십시오. - 마틴 러터킹 주니어.
 ko : play_level.tip_google
-문제가 너무 어렵다구요? 구글에 검색해보세요!
+문제가 너무 어렵다구요? 구글로 검색해보세요!
 ko : play_level.tip_adding_evil
-사악함 한 꼬집을 추가하는 중.
+악마의 핀치를 추가하는중.
 ko : play_level.tip_hate_computers
-컴퓨터를 싫어한다고 생각하는 사람들이 정말로 싫어하는 것은 형편없는 프로그래머입니다 . - 래리 리븐
+즉, 그들은 컴퓨터를 싫어한다고 생각하는 사람들이며. 그들이 정말로 싫어 하는 것은 형편없는 프로그래머 입니다 . - 래리 리븐
 ko : play_level.tip_open_source_contribute
-당신이 코드컴뱃을 향상시키는 걸 도울 수 있어요!
+코드컴뱃을 향상하는데 도와주십시오!
 ko : play_level.tip_recurse
-인간은 반복문을 사용하고, 신은 재귀함수를 사용한다. - L. 피터 대치
+인간은 반복하고,신은 다시 돌아온다 - L. 피터 대치
 ko : play_level.tip_free_your_mind
-공포, 의심, 불신. 모두 버려야 해, 네오. - 모페어스
+모두 가자고할때 생기는 새로움으로인한. 두려움, 의심과 불신. 자유로운 생각을 가져라. - 모페어스
 ko : play_level.tip_strong_opponents
-최강의 상대라 할지라도 항상 약점을 가지고 있다. - 이타치 우치하
+심지어 강한 상대의 항상 약점을 가지고있다. - 이타치 우치하
 ko : play_level.tip_paper_and_pen
-코딩을 하기 전에, 종이와 펜으로 먼저 계획을 세워 보세요.
+코딩을 하기전에, 당신은 항상 종이와 펜으로 계획을 지니고 있어야합니다.
 ko : play_level.tip_solve_then_write
-먼저, 문제를 해결하세요. 그리고 나서 코드를 쓰는 겁니다. - 존 즌슨
+먼저, 문제를 해결하세요. 그러고, 코드를 쓰는겁니다. - 존 즌슨
 ko : play_level.tip_compiler_ignores_comments
-가끔은 컴파일러가 나의 코멘트를 무시하는 것 같아.
+가끔은 컴파일러가 나의 커멘트를 무시하는 것 같아.
 ko : play_level.tip_life_and_polymorphism
-오픈 소스는 다형적이고 이질적인 구조입니다. 어떠한 타입도 환영받지요.
+오픈 소스에서는 어떠한 타입도 환영받는다.
 ko : play_level.tip_mistakes_proof_of_trying
-당신의 코드에 존재하는 실수는 당신이 노력하고 있다는 증명입니다.
+당신의 코드에 존재하는 실수는 당신이 노력하고 있다는 증명이다.
 ko : play_level.tip_adding_orgres
-오우거를 데려오는 중...
+오우거를 모으는 중.
 ko : play_level.tip_sharpening_swords
-칼을 가는 중...
+칼을 가는 중.
 ko : play_level.tip_ratatouille
-다른 사람들이 너의 출신으로 너의 한계를 정의하지 말게 하라. 너의 유일한 한계는 너의 영혼이다. - 셰프 구스토, 영화 라따뚜이
+다른 사람들이 너의 출신으로 너의 한계를 정의하지 말게하라. 너의 유일한 한계는 너의 영혼이다. - 셰프 구스토, 영화 라따뚜이에서
 ko : play_level.tip_nemo
-인생이 너를 저버릴 때, 뭘 해야 하는지 아니? 그냥 헤엄치는 거야. 헤엄쳐. - 도리, 영화 니모를 찾아서
+인생이 너를 저버릴 때, 뭘 해야하는 아니? 그냥 헤엄치는 것이야. 헤엄쳐. - 도리, 영화 네모를 찾아서에서
 ko : play_level.tip_nerds
-너드들은 뭔가를 좋아하도록 허가되었지, 마치 의자에 앉아서 다리떠는 듯이 말이야. - 존 그린
+바보들은 뭔가를 좋아하도록 허가되었지, 마치 의자에 앉아서 다리떠는 듯이 말이야. - 존 그린
 ko : play_level.tip_self_taught
-내가 공부한 것의 90%는 내 스스로 내게 가르쳤지. 그게 정상이거든! - 행크 그린
+난 나에게 내가 공부한 것의 90%를 가르쳤지. 그게 정상이거든! - 행크 그린
 ko : play_level.tip_luna_lovegood
-걱정하지 마, 넌 나처럼 멀쩡한 사람이야. - 루나 러브굿
+걱정하지 마, 넌 나와 같은 부류야. - 루나 러브굿
 ko : play_level.tip_good_idea
-좋은 생각을 하는 가장 좋은 방법은 아주 많은 생각을 하는 것이지. - 리누스 폴링
+좋은 생각을 떠올리게 하는 가장 좋은 방법은 아주 많은 생각을 떠오르게 하는 것이지. - 리누스 폴링
 ko : play_level.tip_programming_not_about_computers
-컴퓨터 공학에서 컴퓨터란, 천문학에서의 망원경과도 같지. - 에드거 다익스트라
+컴퓨터 공학에 대하여 컴퓨터란, 천문학에 대하여 망원경과도 같지. - 에스커 다익스트라
 ko : play_level.tip_mulan
-네가 할 수 있다고 믿어 봐. 그러면 그렇게 될 거야. - 뮬란
+너 자신이 가능하다고 믿어, 그러면 그렇게 될거야. - 목란
 ko : play_level.already_published_suffix
-계속 새로운 시도를 해보고 이 프로젝트를 완성시켜 보세요. 혹은 다른 사람들의 성과를 살펴보기도 하세요! 변경점들은 자동으로 저장되어 다른 사람들에게 공유할 수 있습니다.
+계속 새로운 시도를 해보고 이 프로젝트를 완성시켜보세요. 혹은 다른 사람들의 성과를 살펴보기도 하세요! 변경점들은 자동으로 저장되어 다른 사람들에게 공유할 수 있습니다.
 ko : apis.methods
-메소드
+Methods
 ko : apis.events
-이벤트
+Events
 ko : apis.handlers
-핸들러
+Handlers
 ko : apis.properties
-속성
+Properties
 ko : apis.snippets
-스니펫
+Snippets
 ko : apis.math
-수학
+Math
 ko : apis.array
-배열
+Array
 ko : apis.object
-객체
+Object
 ko : apis.string
-문자열
+String
 ko : apis.function
-함수
+Function
 ko : apis.vector
-벡터
+Vector
 ko : apis.number
-숫자
+Number
 ko : game_menu.multiplayer_caption
-친구들과 플레이하세요!
+친구들과 플레이 하세요!
 ko : leaderboard.damage_taken
-입은 데미지
+데미지 정도
 ko : leaderboard.damage_dealt
-가한 데미지
+죽음을 맞은 데미지
 ko : inventory.required_purchase_title
-구독 필요
-ko : buy_gems.few_gems
-약간의 젬
-ko : buy_gems.pile_gems
-젬 한 더미
-ko : buy_gems.chest_gems
-젬 한 상자
-ko : buy_gems.purchasing
-구매 중...
-ko : buy_gems.retrying
-서버 에러, 다시 시도하세요.
-ko : buy_gems.prompt_button
-상점 가기
-ko : buy_gems.recovered
-gem 구매 후 브라우져를 새로고침하세요.
-ko : buy_gems.price
-x{{gems}} / 한 달
-ko : earn_gems.prompt_body
-더 얻기 위해 계속 플레이하세요.
-ko : subscribe.comparison_blurb
-코드컴뱃을 구독하셔서 당신의 기술을 갈고닦으세요!
-ko : subscribe.must_be_logged
-먼저 로그인해야 합니다. 메뉴에서 계정을 만들거나 로그인해주세요.
-ko : subscribe.never_mind
-신경쓰지 마세요, 저희는 여전히 당신을 사랑합니다
-ko : subscribe.thank_you_months_prefix
-마지막까지 지원해 주셔서 감사합니다.
-ko : subscribe.thank_you
-CodeCombat을 도와 주셔서 감사합니다.
-ko : subscribe.sorry_to_see_you_go
-떠나는 모습을 보니 슬프네요. 우리가 잘 할 수 있는 방법을 알려 주시기 바랍니다.
-ko : subscribe.unsubscribe_feedback_placeholder
-오, 우리가 무슨 짓을 한거죠?
-ko : subscribe.buy_now
-지금 구매하세요
-ko : subscribe.subscription_required_to_play
-이 레벨을 플레이하려면 유료 구독이 필요합니다.
-ko : subscribe.unlock_help_videos
-모든 비디오 튜토리얼의 잠금을 해제하려면 구독하세요.
-ko : subscribe.was_free_until
-당신은 다음 기한까지 무료 구독 중입니다.
-ko : subscribe.unsubscribing
-구독 해제 중
-ko : subscribe.using_prepaid
-월간 선불 코드를 사용
-ko : announcement.griffin_description
-사랑스러운 그리핀은 반은 독수리이고 반은 사자입니다.
-ko : announcement.cougar_description
-쿠거는 Purring Happily Daily에서 박사학위를 받고 싶어합니다. 
-ko : announcement.fox_description
-푸른 여우는 아주 영리하며 땅과 눈을 파는 것을 좋아합니다! 
-ko : announcement.ball_name
-빨간색 삐걱거리는 공
-ko : announcement.collect_pets
-영웅을 위한 펫을 모으십시오!
-ko : announcement.each_pet
-각각의 펫마다 독특한 도우미 능력이 있습니다!
-ko : announcement.upgrade_to_premium
-{{subscriber}}가 되어 애완 동물을 준비하십시요.
-ko : announcement.play_second_kithmaze
- {{the_second_kithmaze}}를 플레이하고 아기 늑대의 잠금을 해제하십시오!
-ko : announcement.keep_playing
-첫 번째 펫을 발견하기 위해 계속 플레이하세요!
-ko : announcement.coming_soon
-곧 출시됩니다
-ko : announcement.ritic
-냉기의 Ritic
-ko : announcement.ritic_description
-냉기의 Ritic입니다. 켈빈타프 빙하지대에 수 세기 동안 갇혀 있었지만, 마침내 자유로워졌습니다. 그는 자신을 가둔 오우거들에게 복수할 준비가 되었습니다.
-ko : announcement.ice_description
-무언가가 내부에 갇혀 있는 것 같습니다…
-ko : announcement.blink_name
-순간이동
-ko : announcement.blink_description
-Ritic은 눈 깜빡할 사이에 사라졌다 나타납니다. 그림자 외에는 아무 흔적도 남기지 않죠.
-ko : announcement.shadowStep_name
-그림자 발걸음
-ko : announcement.shadowStep_description
-달인 암살자는 그림자 사이를 걸어다니는 법을 알고 있습니다.
-ko : announcement.tornado_name
-폭풍
-ko : announcement.tornado_description
-엄폐물이 날아가 버렸다면 리셋 버튼을 가지고 있는 게 좋겠죠.
-ko : announcement.wallOfDarkness_description
-그림자 벽 뒤에 숨어 엿보는 시선을 회피합니다.
-ko : premium_features.hero_blurb_2
-Warcry, Stomp 및 Hurl Enemy와 같은 놀라운 무예 기술의 잠금을 해제하거나 스텔스와 활을 사용하여 레인저로 게임을 하고 칼을 던지며 함정을 빠져 나가세요! 강력한 코딩 마법사가 되어 원시의 힘, 강령술 또는 원소 마법 기술을 배우고 구현하세요.
-ko : premium_features.hero_caption
-멋진 새 영웅!
-ko : premium_features.pet_blurb_1
-펫은 그냥 귀엽기만 한 동반자가 아닙니다. 독창적인 기능과 해결책을 제공합니다. 아기 그리핀은 공중을 통해 유닛을 옮길 수 있고, 늑대개는 적의 화살을 잡을 수 있으며, 쿠거는 주변의 오거를 쫓습니다. 그리고 미믹은 자석처럼 동전을 끌어당깁니다!
-ko : premium_features.game_dev_blurb
-게임을 배우고 친구들과 공유할 새로운 레벨을 만드세요! 원하는 항목을 배치하고, 기본 논리 및 동작에 대한 코드를 작성하고, 친구들이 레벨을 클리어할 수 있는지 확인하세요! 
-ko : premium_features.list_gems
-장비, 펫 및 영웅을 구매하는 보너스 젬.
-ko : premium_features.list_items
-팻과 같은 프리미엄 전용 아이템
-ko : choose_hero.programming_language_description
-어떤 프로그래밍 언어를 사용하실 건가요?
-ko : choose_hero.regeneration
-자동 회복
-ko : choose_hero.range
-사정거리 및 시야
-ko : choose_hero.blocks
-데미지 방어
-ko : choose_hero.backstab
-기습
-ko : choose_hero.attack_3
-무기 데미지.
-ko : choose_hero.health_3
-갑옷의 체력.
-ko : choose_hero.available_for_purchase
 구매 필요
+ko : buy_gems.few_gems
+gem 몇개
+ko : buy_gems.pile_gems
+gem 묶음
+ko : buy_gems.chest_gems
+gem 상자
+ko : buy_gems.purchasing
+구매중...
+ko : buy_gems.retrying
+서버에러, 다시 시도하세요.
+ko : buy_gems.prompt_button
+샵 앤터
+ko : buy_gems.recovered
+gem 구매후 브라우져를 새로고침 하세요.
+ko : buy_gems.price
+x{{gems}} / 한달
+ko : earn_gems.prompt_body
+더 얻기 위해 계속 플레이 하세요.
+ko : subscribe.comparison_blurb
+코드컴뱃을 구독하셔서 당신의 스킬을 날카롭게하십시오!
+ko : subscribe.must_be_logged
+로그인부터 먼저 하셔야합니다.메뉴에서 계정을 만들거나 로그인해주세요.
+ko : subscribe.never_mind
+결코, 난 여전히 당신을 사랑합니다
+ko : subscribe.thank_you_months_prefix
+우리의 마지막까지 지원해주셔서 감사합니다.
+ko : subscribe.thank_you
+CodeCombat을 도와주셔서 감사합니다.
+ko : subscribe.sorry_to_see_you_go
+당신이 떠나서 미안합니다! 우리가 잘 할수 있는 방법을 알려 주시기 바랍니다.
+ko : subscribe.unsubscribe_feedback_placeholder
+어, 우리는 무슨 짓을 한거죠?
+ko : subscribe.buy_now
+지금 
+ko : subscribe.subscription_required_to_play
+당신은 아마 이 레벨을 플레이하려면 구독이 필요합니다.
+ko : subscribe.unlock_help_videos
+모든 비디오 튜토리얼의 잠금을 해제하려면 구독 .
+ko : subscribe.was_free_until
+당신은 현재까지 무료로 가입 했습니다
+ko : subscribe.unsubscribing
+구독해제중
+ko : subscribe.using_prepaid
+매달 구독 선불 코드를 사용
+ko : announcement.griffin_description
+사랑스러운 그리핀은 반은 독수리이고 반은 사자입니다..
+ko : announcement.cougar_description
+쿠거는 Purring Happily Daily에서 박사학위를 받고싶어 합니다. 
+ko : announcement.fox_description
+푸른 여우는 아주 여일하며 흙과 눈을 파는 것을 좋아합니다! 
+ko : announcement.ball_name
+빨간색 삐걱 거리는 공
+ko : announcement.collect_pets
+영웅을 위한 애완 동물을 모으십시요!
+ko : announcement.each_pet
+애완 동물마다 독특한 도우미 능력이 있습니다!
+ko : announcement.upgrade_to_premium
+{{구독자}} 애완 동물을 준비하십시요.
+ko : announcement.play_second_kithmaze
+ {{두 번째_kithmaze}}를 실행하여 Wolf Pup의 잠금을 해제하십시요!
+ko : announcement.keep_playing
+첫 번째 애완 동물을 계속 찾으세요!
+ko : announcement.coming_soon
+커밍 쑨
+ko : announcement.ritic
+강추위
+ko : announcement.ritic_description
+추위를 발생시켜라. 수없이 많은 세월 동안 켈빈타프 빙하에 갇혔지만, 마침내 자유로 워졌다. 그리고 감옥옥에 있는 그는 오우거들에게 갈 준비가 되었다. 
+ko : announcement.ice_description
+내부에 갇혀있는 것 같습니다…
+ko : announcement.blink_name
+깜박임
+ko : announcement.blink_description
+라이트는 사라지고 눈 깜빡 할 사이에 다시 나타나 그림자만 남습니다.
+ko : announcement.shadowStep_name
+그림자 단계
+ko : announcement.shadowStep_description
+마스터 암살범은 그림자 사이를 걸어다니는 법을 알고 있습니다.
+ko : announcement.tornado_name
+토네이도
+ko : announcement.tornado_description
+표지가 날 때 리셋 버튼이 있는 것이 좋습니다..
+ko : announcement.wallOfDarkness_description
+눈길을 피하기 위해 그림자 벽 뒤에 숨어 있습니다.
+ko : premium_features.hero_blurb_2
+Warcry, Stomp 및 Hurl Enemy와 같은 놀라운 무술 기술의 잠금을 해제하거나 스텔스와 활을 사용하여 레인저로 게임을 하고 칼을 던지며 함정을 빠져 나가십시오! 강력한 코딩 마법사로서 원시, 네크로 매틱 또는 엘리멘탈 매직의 기술을 배우고 구현하십시오.
+ko : premium_features.hero_caption
+신나는 새로운 영웅!
+ko : premium_features.pet_blurb_1
+애완동물은 사랑스로운 동반자가 아니며 독창적인 기능과 해결책을 제공합니다. 아기 그리핀은 공중을 통해 유닛을 옮길 수 있고, 늑대개는 적의 화살을 잡을 수 있으며, 쿠거는 주변의 오거를 쫓습니다. 그리고 미믹은 자적처럼 동전을 끌어당십니다!
+ko : premium_features.game_dev_blurb
+게임을 배우고 친구들과 공유할 새로운 레벨을 만드세요! 원하는 항목을 배치하고, 기본 논리 및 동작에 대한 코드를 작성하고, 친구들이 레벨을 능가 할 수 있는지 확인하세요! 
+ko : premium_features.list_gems
+장비, 팻 및 영웅을 구매하는 보너스 젬.
+ko : premium_features.list_items
+팻과 같은 프리미언 전용 아이템
+ko : choose_hero.programming_language_description
+어떤 프로그래밍 언어를 사용하실건가요?
+ko : choose_hero.regeneration
+리젠
+ko : choose_hero.range
+거리
+ko : choose_hero.blocks
+블럭
+ko : choose_hero.backstab
+백스탭
+ko : choose_hero.attack_3
+무기 피해.
+ko : choose_hero.health_3
+갑옷 체력.
+ko : choose_hero.available_for_purchase
+구매 가능
 ko : choose_hero.level_to_unlock
-잠금 해제를 위해 레벨 클리어 필요:
+레벨 해금:
 ko : skill_docs.read_only
-읽기 전용
+리드-온리
 ko : skill_docs.action_cooldown
-초 걸림
+받는 상태
 ko : skill_docs.action_duration
-지속시간
+지속
 ko : skill_docs.granted_by
-부여됨
+부여
 ko : courses.remove_description1
-학생들은 이 교실과 수업에 대한 액세스를 잃어버릴 것입니다. 하지만 진행도와 게임 플레이는 잃지 않습니다. 그리고 학생들은 어느 때나 교실로 다시 초대 받을 수 있습니다. 
+학생들은 이 교실과 수업에 대한 액세스를 잃어버릴 것입니다. 하지만진행도와 게임 플레이는 잃지 않습니다. 그리고 학생들은 어느 때나 교실로 다시 초대 받을 수 있습니다. 
 ko 174
 haw 0
 he : about.story_statistic_1a
-יותר מ-20,000,000
+יותר מ-5,000,000
 he : about.story_statistic_2b
-מיותר מ-190 ארצות
+מיותר מ-200 ארצות
 he : teacher.teacher_quest_teach_methods_step1
-הביאו 75% מכיתה אחת לפחות אל השלב הראשון, Dungeons of Kithgard
+הביאו 75% מכיתה אחת לפחות אל השלב הראשון, __Dungeons of Kithgard__
 he : teacher.teacher_quest_teach_methods_step2
-הדפיסו את [Student Quick Start Guide]‏(https://files.codecombat.com/docs/resources/StudentQuickStartGuide.pdf) במרכז המשאבים.
+הדפיסו את [Student Quick Start Guide]‏(http://files.codecombat.com/docs/resources/StudentQuickStartGuide.pdf) במרכז המשאבים.
 he : teacher.teacher_quest_teach_strings_step1
-הביאו 75% מכיתה אחת לפחות אל True Names
+הביאו 75% מכיתה אחת לפחות אל __True Names__
 he : teacher.teacher_quest_teach_strings_step2
-השתמשו בבורר השלבים של המורה בדף [Course Guides]‏(/teachers/courses) כדי לראות תצוגה מקדימה של True Names.
+השתמשו בבורר השלבים של המורה בדף [Course Guides]‏(/teachers/courses) כדי לראות תצוגה מקדימה של __True Names__.
 he : teacher.teacher_quest_teach_loops_step1
-הביאו 75% מכיתה אחת לפחות אל Fire Dancing.
+הביאו 75% מכיתה אחת לפחות אל __Fire Dancing__.
 he : teacher.teacher_quest_teach_loops_step2
-היעזרו בחומר על Loops Activity תחת [CS1 Curriculum guide](/teachers/resources/cs1) כדי לחזק עיקרון זה.
+היעזרו בחומר על __Loops Activity__ תחת [CS1 Curriculum guide](/teachers/resources/cs1) כדי לחזק עיקרון זה.
 he : teacher.teacher_quest_teach_variables_step1
-הביאו 75% מכיתה אחת לפחות אל Known Enemy.
+הביאו 75% מכיתה אחת לפחות אל __Known Enemy__.
 he : teacher.teacher_quest_kithgard_gates_100_step1
-הביאו 75% מכיתה אחת לפחות אל Kithgard Gates.
+הביאו 75% מכיתה אחת לפחות אל __Kithgard Gates__.
 he : teacher.teacher_quest_kithgard_gates_100_step2
-הנחו את התלמידים כיצד לחשוב על בעיות קשות באמצעות [Engineering Cycle Worksheet]‏(https://files.codecombat.com/docs/resources/EngineeringCycleWorksheet.pdf).
+הנחו את התלמידים כיצד לחשוב על בעיות קשות באמצעות [Engineering Cycle Worksheet]‏(http://files.codecombat.com/docs/resources/EngineeringCycleWorksheet.pdf).
 he : teacher.teacher_quest_wakka_maul_100_step1
-הביאו 75% מכיתה אחת לפחות אל Wakka Maul.
+הביאו 75% מכיתה אחת לפחות אל __Wakka Maul__.
 he 12
 hr 0
 hu : about.story_statistic_1a
-20 000 000+
+5 000 000+
 hu : about.story_statistic_2b
-190 különböző országból tevődnek össze
+200 különböző országból tevődnek össze
 hu 2
 id : new_home.our_courses
-Kursus kami telah diuji oleh para pemain secara khusus untuk <strong>menjadi lebih baik di ruang kelas</strong>, bahkan oleh para guru yang mempunyai sedikit atau tanpa pengalaman pemrograman sebelumnya.
+Kursus kami telah di uji melalui para pemain secara khusus untuk <strong>menjadi lebih baik di ruang kelas</strong>, bahkan oleh para guru yang mempunyai sedikit atau tanpa pengalaman pemrograman sebelumnya.
 id : new_home.watch_how
-Saksikan CodeCombat mentransformasi cara orang-orang belajar ilmu komputer.
+Saksikan CodeCombat mentransformasi cara orang-orang mempelajari ilmu komputer.
 id : new_home.teaching_computer_science
-Mengajari ilmu komputer tidak memerlukan gelar yang mahal, karena kami menyediakan peralatan untuk menunjang pendidik dari segala macam latar belakang.
+Mengajari ilmu komputer tidak perlu memerlukan gelar yang mahal, karena kami menyediakan peralatan untuk menunjang pendidik dari segala macam latar belakang.
 id : new_home.democratizing
-Mendemokrasikan proses belajar membuat kode adalah inti dari filosofi kami. Semua orang yang mampu untuk belajar membuat kode.
+Mendemokrasikan proses belajar membuat kode adalah inti dari filsafat kami. Semua orang mampu untuk belajar membuat kode.
 id : new_home.forgot_learning
-Saya pikir mereka benar-benar lupa bahwa mereka sebenarnya belajar tentang sesuatu.
+Saya pikir mereka benar-benar lupa bahwa mereka sebenarnya mempelajari sesuatu.
 id : new_home.wanted_to_do
-Belajar membuat kode adalah sesuatu yang selalu saya ingin lakukan, dan saya tidak pernah berpikir saya akan bisa mempelajarinya di sekolah.
+ Belajar membuat kode adalah sesuatu yang selalu saya ingin lakukan, dan saya tidak pernah berpikir saya akan bisa mempelajarinya di sekolah.
 id : new_home.conventional
-terhadap metode pengajaran konvensional, perbedaannya jelas: permainan merupakan pilihan yang lebih baik untuk membantu siswa mempertahankan pengetahuan, berkonsentrasi dan
+terhadap metode penilaian konvensional, perbedaannya jelas: permainan merupakan pilihan yang lebih baik untuk membantu siswa mempertahankan pengetahuan, berkonsentrasi dan
 id : new_home.feedback
-Permainan juga memberikan umpan balik langsung yang memungkinkan siswa untuk menyesuaikan solusi cara mereka dan memahami konsep-konsep yang lebih holistik, daripada hanya terbatas dengan jawaban “benar” atau “salah” saja.
+Permainan juga memberikan umpan balik langsung yang memungkinkan siswa untuk menyesuaikan jalan solusi mereka dan memahami konsep-konsep yang lebih holistik, daripada hanya terbatas dengan jawaban “benar” atau “salah” saja.
 id : new_home.boast
-Teka-teki yang cukup kompleks untuk memikat pemain dan pengkode.
+Teka-teki membanggakan yang cukup kompleks untuk memikat para pemain dan pengkode.
 id : nav.legal
-Hukum
+Legal
 id : diplomat_suggestion.pitch_body
-Kami mengembangkan CodeCombat dalam bahasa Inggris, tapi kami sudah memiliki pemain di seluruh dunia. Banyak dari mereka ingin bermain di Indonesia, tetapi tidak berbicara bahasa Inggris, jadi jika Anda dapat menguasai kedua bahasa tersebut, silakan mempertimbangkan untuk mendaftar untuk menjadi Diplomat dan membantu menerjemahkan kedua situs CodeCombat dan semua tingkatan ke Bahasa Indonesia.
+Kami mengembangkan CodeCombat dalam bahasa Inggris, tapi kami sudah memiliki pemain di seluruh dunia. Banyak dari mereka ingin bermain di Indonesia, tetapi tidak berbicara bahasa Inggris, jadi jika Anda dapat menguasai kedua bahasa tersebut, silakan mempertimbangkan untuk mendaftar untuk menjadi Diplomat dan membantu menerjemahkan kedua situs CodeCombat dan semua tingkatan ke Indonesia.
 id : signup.log_in
-masuk dengan kata sandi
+masuk dengan password
 id : signup.individuals_or_parents
-Individu dan Orang Tua
+Individu dan Orang tua
 id : signup.individual_type
-Untuk pemain yang belajar kode di luar kelas. Para orang tua harus mendaftar akun di sini
+Untuk param pemain yang belajar kode di luar dari kelas. Para orang tua harus mendaftar akun di sini
 id : general.undo_prefix
-Urung
+Undo
 id : general.redo_prefix
-Ulangi
+Redo
 id : play_level.tip_open_source
-CodeCombat adalah bagian dari komunitas sumber terbuka!
+CodeCombat 100% sumber terbuka!
 id : premium_features.hero_blurb_2
-Kesatria Premium membuka kemampuan beladiri yang menakjubkan seperti Warcry, Stomp, dan Hurl Enemy. Atau, bermain sebagai Pemanah, menggunakan panah dan tidak terdeteksi, melempar pisau, jebakan! Coba kemampuanmu sebagai Penyihir sejati, dan melepaskan susunan Primodial yang kuat, Ilmu Nujum ataupun Elemen Ajaib!
+Kesatria Premium membuka kemampuan beladiri yang menakjubkan seperti Warcry, Stomp, dan Hurl Enemy. Atau, bermain sebagai Pemanah, menggunakan panah dan tidak terdeteksi, melempar pisau, jebakan! Coba kemampuanmu sebagai Penyihir sejati, dan melepaskan susunan Primodial yang kuat, Ilmu Nujum ataupun Sihir Elemen!
 id : choose_hero.java_blurb
-(Khusus Pelanggan) Android dan perusahaan.
+(Hanya Pelanggan) Android dan perusahaan.
 id : about.learn_more
-Pelajari lebih lanjut
+Pelajari Lebih
 id : about.community_subtitle
-Lebih dari 500 kontributor telah membantu membangun CodeCombat, dan lebih banyak lagi yang bergabung tiap minggunya!
+Lebih dari 500 kontributor telah membantu membangun CodeCombat, dengan lebih banyak lagi yang bergabung tiap minggunya!
 id : about.community_description_1
- dengan ratusan jumlah pemain suka rela membuat level, berkontribusi dengan kode kami dan menambahkan fitur, memperbaiki bugs, mengetes, dan juga mengalihbahasakan game ke dalam 50 bahasa sampai saat ini. Karyawan, kontributor dan perolehan situs dari berbagi ide dan usaha bersama, sebagaimana komunitas sumber terbuka umumnya. Situs ini dibuat dari berbagai proyek sumber terbuka, dan kami membuka sumber untuk diberikan kembali kepada komunitas dan menyediakan pemain yang penasaran-dengan-kode proyek yang mudah untuk dieksplorasi dan dijadikan eksperimen. Semua dapat bergabung di komunitas CodeCombat! Cek 
+dengan ratusan jumlah pemain suka rela membuat level, berkontribusi dengan kode kami dan menambahkan fitur, memperbaiki bugs, mengetes, dan juga mengalihbahasakan game kedalam 50 bahasa sampai saat ini. Karyawan, kontributor dan perolehan situs dari berbagi ide dan usaha bersama, sebagaimana komunitas sumber terbuka umumnya. Situs ini dibuat dari proyek sumber terbuka yang banyak, dan kami membuka sumber untuk diberikan kembali kepada komunitas dan menyediakan pemain yang penasaran proyek yang lazim, untuk dieksplorasi dan dieksperimen. Semua dapat bergabung di komunitas CodeCombat! Cek 
 id : about.story_statistic_1a
-20,000,000+
+5,000,000+
 id : about.story_statistic_2a
-Kami telah menerjemahkan ke lebih dari 50 bahasa - pemain kami berasal
+Kami telah menerjemahkan menjadi lebih dari 50 bahasa - pemain kami berasal
 id : about.story_sketch_caption
-Sketsa paling pertama milik Nick menggambarkan permainan pemrograman sedang beraksi.
+Sketsa paling pertama milik Nick menggambarkan permainan pemrograman beraksi.
 id : about.jobs_benefit_6
-Pengobatan (level emas), perawatan gigi, perawatan mata, perjalanan, 401K
+Pengobatan (emas), perawatan gigi, perawatan mata, perjalanan
 id : about.jobs_benefit_11
-Cuti Kelahiran (Pria): 12 minggu dibayar
+Cuti Kelahiran (Pria): 10 minggu dibayar
 id : about.contact_subtitle
-Butuh informasi lebih lanjut? Hubungi kami di
+Butuh informasi lebih? Hubungi kami di
 id : about.screenshots_title
-Tangkapan Layar Game
+Screenshot Game
 id : about.screenshots
-Tangkapan layar
+Screenshot
 id : teachers_quote.subtitle
-Pelajari lebih lanjut tentang CodeCombat dengan panduan interaktif tentang produk, harga, dan implementasi!
+Ajak siswa-siswamu mulai dalam kurang dari satu jam. Kamu dapat <strong>membuat kelas, menambahkan siswa, dan mengawasi perkembangan mereka</strong> selagi mereka belajar ilmu komputer.
 id : teachers_quote.state
-Provinsi / Wilayah
+Provinsi
 id : teachers_quote.referrer_admin
-Administrator
+Adminstrator
 id : contact.screenshot_included
-Tangkapan layar termasuk.
+Screenshot termasuk.
 id : community.social_blog
-Baca blog CodeCombat
+Baca blog CodeCombat di Sett
 id : teacher.one_license_used
-1 dari __totalLicenses__ lisensi telah digunakan
+1 lisensi telah dipakai
 id : teacher.num_licenses_used
-__numLicensesUsed__ dari __totalLicenses__ lisensi telah digunakan
+__numLicensesUsed__ lisensi telah terpakai
 id : teacher.educator_faq_desc
-Pertanyaan yang paling sering diajukan mengenai menggunakan CodeCombat di kelas atau di sekolahmu.
+Pertanyaan yang paling sering diajukan mengenai menggunakan  di kelas atau di sekolahmu.
 id : teacher.cs5_curriculum_desc_py
-Cakupan dan urutan, rencana pelajaran, aktivitas, dan lainnya untuk kelas Kursus 5 menggunakan Python.
+Scope and sequence, lesson plans, activities and more for Course 5 classes using Python.
 id : teacher.wd1_curriculum_desc
-Lingkup dan urutan, rencana pelajaran, aktivitas, dan lainnya untuk Pengembangan Web 1.
+Rencana pembelajaran untuk Pengembangan Web 1.
 id : teacher.student_good_detail
-Siswa ini mampu mengikuti kecepatan waktu penyelesaian level rata-rata kelas.
+Siswa ini mampu mengikuti dengan kelas.
 id : teacher.student_warn_detail
-Waktu penyelesaian level rata-rata siswanya menunjukkan bahwa mereka mungkin memerlukan bantuan dengan konsep baru yang telah diperkenalkan dalam kursus ini.
+Siswa ini mungkin membutuhkan bantuan dalam konsep baru yang sudah diperkenalkan di kursus ini.
 id : teacher.student_great_detail
-Siswa ini mungkin merupakan kandidat yang baik untuk membantu siswa lain mengerjakan kursus ini, berdasarkan waktu penyelesaian level rata-rata.
+Siswa ini mungkin mampu menjadi kandidat yang baik dalam membantu siswa lainnya mengerjakan di kursus ini.
 id : teacher.teacher_quest_teach_methods_step1
-Dapatkan minimal 75% dari satu kelas untuk melewati level pertama, Dungeons of Kithgard
+Dapatkan minimal 75% dari satu kelas untuk melewati level pertama, __Dungeons of Kithgard__
 id : teacher.teacher_quest_teach_methods_step2
-Cetak [Panduan Memulai Cepat Siswa](https://files.codecombat.com/docs/resources/StudentQuickStartGuide.pdf) di Pusat Sumber Daya.
+Cetak [Panduan Memulai Cepat Siswa](http://files.codecombat.com/docs/resources/StudentQuickStartGuide.pdf) di Pusat Sumber Daya.
 id : teacher.teacher_quest_teach_strings_step1
-Dapatkan minimal 75% dari satu kelas melalui True Names.
+Dapatkan minimal 75% dari satu kelas melalui __True Names__.
 id : teacher.teacher_quest_teach_strings_step2
-Gunakan Pemilih Level Guru di halaman [Panduan Kursus](/teachers/courses) untuk melihat True Names.
+Gunakan Pemilih Level Guru di halaman [Panduan Kursus](/teachers/courses) untuk melihat __True Names__.
 id : teacher.teacher_quest_teach_loops_step1
-Dapatkan minimal 75% dari satu kelas melalui Fire Dancing.
+Dapatkan minimal 75% dari satu kelas melalui __Fire Dancing__.
 id : teacher.teacher_quest_teach_loops_step2
-Gunakan Loops Activity  di [Panduan Kurikulum IlKom1](/teachers/resources/cs1) untuk memperkuat konsep ini.
+Gunakan __Loops Activity__  di [Panduan Kurikulum IlKom1](/teachers/resources/cs1) untuk memperkuat konsep ini.
 id : teacher.teacher_quest_teach_variables_step1
-Dapatkan minimal 75% dari satu kelas melalui Known Enemy.
+Dapatkan minimal 75% dari satu kelas melalui __Known Enemy__.
 id : teacher.teacher_quest_kithgard_gates_100_step1
-Dapatkan minimal 75% dari satu kelas melalui Kithgard Gates.
+Dapatkan minimal 75% dari satu kelas melalui __Kithgard Gates__.
 id : teacher.teacher_quest_kithgard_gates_100_step2
-Pandu siswa anda untuk memikirkan masalah-masalah sukar dengan menggunakan [Lembar Kerja Siklus Teknis](https://files.codecombat.com/docs/resources/EngineeringCycleWorksheet.pdf).
+Pandu siswa anda untuk memikirkan masalah-masalah sukar dengan menggunakan [Lembar Kerja Siklus Teknis](http://files.codecombat.com/docs/resources/EngineeringCycleWorksheet.pdf).
 id : teacher.teacher_quest_wakka_maul_100_step1
-Dapatkan minimal 75% dari satu kelas melalui Wakka Maul.
+Dapatkan minimal 75% dari satu kelas melalui __Wakka Maul__.
 id : teacher.combo
-Kombo
+Combo
 id : loading_error.could_not_load
-Kesalahan memuat dari server. Coba segarkan halaman.
+Kesalahan memuat dari server
 id : anonymous_teacher.teacher_email_placeholder
-guruku@contoh.com
+teacher.email@example.com
 id 56
 it : about.story_statistic_1a
-20,000,000+
+5,000,000+
 it : about.story_statistic_2b
-più di 190 paesi
+più di 200 paesi
 it : contribute.artisan_introduction_pref
-Dobbiamo costruire nuovi livelli! La gente chide sempre nuovi contenuti, e non possiamo costruirne così tanti e così tanto velocemente da soli. Per ora la tua workstation è al livello uno; il nostro editor di livelli è a malapena usabile persino dai suoi creatori, quindi fai attenzione. Se hai idee per campagne che richiedano cicli for per
+Dobbiamo costruire nuovi livelli! La gente chide sempre nuovi contenuti, e non possiamo costruirne così tanti e così tanto velocemente da soli. Per ora la tua workstation è al livello uno; il nostro editor di livelli è a malapena usabile persino dai suoi creatori, quindi fai attenzione. Se hai idee per campanie che richiedano cicli for per
 it 3
 kk 0
 lt : modal.okay
-Gerai
+OK
 lt : signup.required
-Prieš tęsiant kelią turite prisijungti.
+PRieš tęsiant kelią turite prisijungti.
 lt : inventory.should_equip
-(nuspausk du kartus kad naudotum)
+(double-click kad naudotum)
 lt : classes.archmage_summary
-Jei tu esi programuotojas ir norėtum programuoti mokomuosius žaidimus, tapk Arkimagu ir padėk mums kurti CodeCombat!
+Jei tu esi programuotojas ir norėtum programuoti mokomuosius žiadimus, tapk Arkimagu ir padėk mums kurti CodeCombat!
 lt 4
 lv 0
 mi 0
@@ -1425,723 +1425,723 @@ mn 0
 ms 0
 my 0
 nl : new_home.gaming_is_good
-Studies wijzen uit dat spelend leren goed is voor de hersenen van kinderen. (En dat klopt!)
+Studies wijzen uit dat speels leren goed is voor de hersenen van kinderen. (En dat klopt!)
 nl : new_home.conventional
-met conventionele evaluatiemethoden, is het verschil duidelijk: games zijn beter in het stimuleren van leerlingen bij het onthouden van kennis, concentratie en het
+met conventionele assessmentmethoden, is het verschil duidelijk: games zijn beter in het stimuleren van leerlingen bij het onthouden van kennis, concentratie en het
 nl : new_home.agency
-CodeCombat is een game die de mogelijkheid en het zelfvertrouwen geeft om met echte code te werken, wat zowel beginners als gevorderden helpt bij het schrijven van goede, valide code.
+CodeCombat is een game die de mogelijkheid en het zelfvertrouwen geeft om met echte code te werken, wat zowel beginners als gevorderde helpt bij het schrijven van goede, valide code.
 nl : diplomat_suggestion.learn_more
-Meer informatie over Diplomaat zijn
+Meer informatie over het zijn van een Diplomaat
 nl : play_level.tip_ratatouille
-Laat je niet door anderen begrenzen op grond van je afkomst. Je enige begrenzing is je ziel. - Gusteau, Ratatouille
+Laat je niet door andere begrenzen op grond van je afkomst. Je enige begrenzing is je ziel. - Gusteau, Ratatouille
 nl : subscribe.stripe_description
-Maandabonnement
+Maandelijks abonnement
 nl : about.story_statistic_1a
-20,000,000+
+5,000,000+
 nl : about.story_statistic_2b
-190+ landen
+200+ landen
 nl : teacher.teacher_quest_teach_methods_step1
-Krijg 75% van in ieder geval één klas door het eerste level, Kerkers van Kithgard
+Krijg 75% van in ieder geval één klas door het eerste level, __Kerkers van Kithgard__
 nl : teacher.teacher_quest_teach_methods_step2
-Print de [Snelle Startgids voor Leerlingen](https://files.codecombat.com/docs/resources/StudentQuickStartGuide.pdf) in de Resource Hub.
+Print de [Snelle Startgids voor Leerlingen](http://files.codecombat.com/docs/resources/StudentQuickStartGuide.pdf) in de Resource Hub.
 nl : teacher.teacher_quest_teach_strings_step1
-Zorg dat 75% van je leerlingen heelhuids door True Names heen komen!
+Zorg dat 75% van je leerlingen heelhuids door __True Names__ heen komen!
 nl : teacher.teacher_quest_teach_strings_step2
-Gebruik de 'Teacher Level Selector'op de [Course Guides](/teachers/courses) pagina om True Names te bekijken.
+Gebruik de 'Teacher Level Selector'op de [Course Guides](/teachers/courses) pagina om __True Names__ te bekijken.
 nl : teacher.teacher_quest_teach_loops_step1
-Zorg dat in ieder geval 75% van in ieder geval één klas door Fire Dancing heenkomt.
+Zorg dat in ieder geval 75% van in ieder geval één klas door __Fire Dancing__ heenkomt.
 nl : teacher.teacher_quest_teach_loops_step2
-Gebruik de Loops Activity in de [CS1 Curriculum guide](/teachers/resources/cs1) om dit concept te versterken.
+Gebruik de __Loops Activity__ in de [CS1 Curriculum guide](/teachers/resources/cs1) om dit concept te versterken.
 nl : teacher.teacher_quest_teach_variables_step1
-Zorg dat in ieder geval 75% van in ieder geval één klas door Known Enemy heen komt.
+Zorg dat in ieder geval 75% van in ieder geval één klas door __Known Enemy__ heen komt.
 nl : teacher.teacher_quest_kithgard_gates_100_step1
-Zorg dat in ieder geval 75% van in ieder geval één klas door Kithgard Gates heen komt.
+Zorg dat in ieder geval 75% van in ieder geval één klas door __Kithgard Gates__ heen komt.
 nl : teacher.teacher_quest_kithgard_gates_100_step2
-Begeleid leerlingen om door moeilijke problemen heen te denken door de [Engineering Cycle Worksheet](https://files.codecombat.com/docs/resources/EngineeringCycleWorksheet.pdf)te gebruiken.
+Begeleid leerlingen om door moeilijke problemen heen te denken door de [Engineering Cycle Worksheet](http://files.codecombat.com/docs/resources/EngineeringCycleWorksheet.pdf)te gebruiken.
 nl : teacher.teacher_quest_wakka_maul_100_step1
-Zorg dat in ieder geval 75% van in ieder geval één klas door Wakka Maulheen komt.
+Zorg dat in ieder geval 75% van in ieder geval één klas door __Wakka Maul__heen komt.
 nl : ladder.tournament_ended
-Toernooi geëindigd
+Toernooi geeindigd
 nl : ladder.tournament_rules
-Toernooiregels
+Toernooi regels
 nl : ladder.tournament_blurb_zero_sum
-Ontketen je code-creativiteit in goud verzamelen en veldslag tactieken in deze Alpine Mirror wedstrijd tussen de rode tovenaar en de blauwe tovenaar. Het toernooi is gestart op Vrijdag 27 maart en loopt tot Maandag 6 April om 17:00 PDT. Doe mee voor plezier en overwinning! Check de details
+Ontketen je code creativiteit in goud verzamelen en veldslag tactieken in deze alpine spiegel wedstrijd tussen de rode tovenaar en de blauwe tovenaar. Het tournament is gestart op Vrijdag 27 maart en loopt tot Maandag 6 April om 17:00 PDT. Doe mee voor plezier en overwinning! Check de details
 nl : ladder.tournament_blurb_ace_of_coders
-Vecht het uit in de bevroren gletsjer in deze Dominance Mirror wedstrijd! Het toernooi begint op Woensdag 16 September en loopt tot Woensdag 14 Oktober om 17:00 PDT. Check de details
+Vecht het uit in de bevroren gletsjer in deze dominatie spiegel wedstrijd! Het tournament begon op Woensdag 16 September en loopt tot Woensdag 14 Oktober om 17:00 PDT. Check de details
 nl : account.status_unsubscribed
-Krijg toegang tot nieuwe levels, helden, items, en extra edelstenen met een abonnement op CodeCombat!
+Krijg toegang tot nieuwe levels, helden, items, en bonus edelstenen met een abonnement op CodeCombat!
 nl : account_prepaid.purchase_code5
-In Nederland en België: mail naar product@codecombat.eu. Neem voor meer informatie over Leerlinglicenties in Amerika etc. contact op met
+Neem voor meer informatie over Leerling licenties contact op met
 nl 24
 nl-BE : new_home.getting_students
-Doordat leerlingen code schrijven in 'echte programmeertaal', leren ze niet alleen hoe computers denken, maar kunnen ze het ook echt toepassen.
+Leerlingen zo snel mogelijk echte code laten schrijven is noodzakelijk voor het leren van programmeer syntax en correcte structuur.
 nl-BE : new_home.accessible_to
-Toegankelijk voor
+Bereikbaar voor
 nl-BE : new_home.conventional
-met conventionele evaluatiemethoden, is het verschil duidelijk: games zijn beter in het stimuleren van leerlingen bij het onthouden van kennis, concentratie en het
+met conventionele assessment methodes, is het verschil duidelijk: games zijn beter in het stimuleren van leerlingen bij het onthouden van kennis, concentratie en het
 nl-BE : code.while
-zolang
+wanneer
 nl-BE : share_progress_modal.email_invalid
-E-mailadres klopt niet.
+Emailaddress klopt niet.
 nl-BE : share_progress_modal.form_blurb
-Vul het e-mailadres van je ouders hieronder in en we zullen het ze laten zien!
+Vul het emailadres van je ouders hieronder in en we zullen het ze laten zien!
 nl-BE : share_progress_modal.form_label
-E-mailadres
+E-mailaddress
 nl-BE : share_progress_modal.placeholder
-e-mailadres
+e-mailaddress
 nl-BE : signup.email_announcements
-Ontvang aankondigingen via e-mail
+Ontvang aankondigingen via email
 nl-BE : signup.required
-Je moet inloggen om daarheen te gaan.
+Je moet eerst inloggen om die richting te kunnen volgen.
 nl-BE : common.continue
-Doorgaan
+Verder
 nl-BE : common.unwatch
-Niet meer volgen
+Niet volgen
 nl-BE : general.submitted
-Toegevoegd
+Verzonden
 nl-BE : general.play_preview
-Speel voorproefje van dit level
+Preview van huidig level spelen.
 nl-BE : general.email
-E-mail
+Email
 nl-BE : general.player_level
-Niveau
+Level
 nl-BE : general.ranger
-Ranger
+Boogschutter
 nl-BE : play_level.next_game
-Volgende spel
+Volgend spel
 nl-BE : play_level.skip
-Overslaan
+Sla over
 nl-BE : play_level.failing
-Mislukt
+Mislukken
 nl-BE : play_level.reload
-Herlaad
+Herladen
 nl-BE : play_level.victory_saving_progress
-Voortgang opslaan
+Vooruitgang bewaren
 nl-BE : play_level.victory_hour_of_code_done
-Ben je klaar?
+Ben Je Klaar?
 nl-BE : play_level.victory_gems_gained
-Edelstenen verdiend
+edelstenen verdiend
 nl-BE : play_level.victory_viking_code_school
-Wow, jij hebt net een moeilijk level gehaald! Als je nog geen programmeur was, zou je er één moeten worden! Je hebt net versneld toegang gekregen voor de Viking programmeerSchool, waar je je vaardigheden kunt opkrikken en binnen 14 weken een professionele webontwikkelaar kunt worden.
+Wow, jij hebt net een moeilijk level gehaald! Als je nog geen programmeur was, zou je er een moeten worden! Je hebt net versneld toegang gekregen voor de Viking programmeer school, waar je je vaardigheden kan opkrikken en binnen 14 weken een professionele webontwikkelaar kunt worden.
 nl-BE : play_level.tome_your_skills
-Jouw Vaardigheden
+Jouw vaardigheden
 nl-BE : play_level.code_saved
-Code Opgeslagen
+Code opgeslagen
 nl-BE : play_level.infinite_loop_title
-Oneindige herhaling gedetecteerd
+Oneindige Lus Gedetecteerd
 nl-BE : play_level.infinite_loop_description
-De initiële code om de wereld te bouwen is nooit gestopt. De code is waarschijnlijk heel langzaam of er is sprake van een oneindige herhaling. Of misschien wel een bug. Je kunt proberen je code nogmaals te laten afspelen, of de oorspronkelijke code herladen. Als het dan nog steeds niet is opgelost, neem dan contact met ons op.
+De initiele code om deze wereld te bouwen hield nooit op. Het is waarschijnlijk erg traag, of het bevat een oneindige lus. Ofwel is er een bug. Je kan proberen om deze code opnieuw te laten lopen, of terug te zetten in zijn originele toestand. Als het probleem dan nog niet opgelost is, laat het ons alsjeblieft weten.
 nl-BE : play_level.check_dev_console
-Je kunt ook de ontwikkelaarsconsole openen om te zien wat er mogelijk is misgegaan.
+Je kan ook de Ontwikkelaars Console openen om te zien wat er eventueel misgaat.
 nl-BE : play_level.tip_munchkin
-Als je je groenten niet opeet zal een munchkin je ontvoeren terwijl je slaapt.
+Als je je groentjes niet opeet zal een munchkin je ontvoeren terwijl je slaapt.
 nl-BE : play_level.tip_hardware_problem
-Q: Hoeveel programmeurs heb je nodig om een lamp te vervangen?  A: Nul, het is een hardware probleem.
+Q: Hoeveel programmeurs heb je nodig om een lamp te vervangen?  A: Geen, het is een hardware probleem.
 nl-BE : play_level.tip_brute_force
-Wanneer je twijfelt, gebruik dan brute force. - Ken Thompson
+Wanneer je twijfelt, gebruik brute force. - Ken Thompson
 nl-BE 33
 nl-NL : about.story_statistic_1a
-20,000,000+
+5,000,000+
 nl-NL : about.story_statistic_2b
-190+ landen
+200+ landen
 nl-NL : teacher.teacher_quest_teach_methods_step1
-Krijg 75% van in ieder geval één klas door het eerste level, Kerkers van Kithgard
+Krijg 75% van in ieder geval één klas door het eerste level, __Kerkers van Kithgard__
 nl-NL : teacher.teacher_quest_teach_methods_step2
-Print de [Snelle Startgids voor Studenten](https://files.codecombat.com/docs/resources/StudentQuickStartGuide.pdf) in de Resource Hub.
+Print de [Snelle Startgids voor Studenten](http://files.codecombat.com/docs/resources/StudentQuickStartGuide.pdf) in de Resource Hub.
 nl-NL : teacher.teacher_quest_teach_strings_step1
-Zorg dat 75% van je leerlingen heelhuids door True Names heen komen!
+Zorg dat 75% van je leerlingen heelhuids door __True Names__ heen komen!
 nl-NL : teacher.teacher_quest_teach_strings_step2
-Gebruik de 'Teacher Level Selector'op de [Course Guides](/teachers/courses) pagina om True Names te bekijken.
+Gebruik de 'Teacher Level Selector'op de [Course Guides](/teachers/courses) pagina om __True Names__ te bekijken.
 nl-NL : teacher.teacher_quest_teach_loops_step1
-Zorg dat in ieder geval 75% van in ieder geval één klas door Fire Dancing heenkomt.
+Zorg dat in ieder geval 75% van in ieder geval één klas door __Fire Dancing__ heenkomt.
 nl-NL : teacher.teacher_quest_teach_loops_step2
-Gebruik de Loops Activity in de [CS1 Curriculum guide](/teachers/resources/cs1) om dit concept te versterken.
+Gebruik de __Loops Activity__ in de [CS1 Curriculum guide](/teachers/resources/cs1) om dit concept te versterken.
 nl-NL : teacher.teacher_quest_teach_variables_step1
-Zorg dat in ieder geval 75% van in ieder geval één klas door Known Enemy heen komt.
+Zorg dat in ieder geval 75% van in ieder geval één klas door __Known Enemy__ heen komt.
 nl-NL : teacher.teacher_quest_kithgard_gates_100_step1
-Zorg dat in ieder geval 75% van in ieder geval één klas door Kithgard Gates heen komt.
+Zorg dat in ieder geval 75% van in ieder geval één klas door __Kithgard Gates__ heen komt.
 nl-NL : teacher.teacher_quest_kithgard_gates_100_step2
-Begeleid studenten om door moeilijke problemen heen te denken door de [Engineering Cycle Worksheet](https://files.codecombat.com/docs/resources/EngineeringCycleWorksheet.pdf)te gebruiken.
+Begeleid studenten om door moeilijke problemen heen te denken door de [Engineering Cycle Worksheet](http://files.codecombat.com/docs/resources/EngineeringCycleWorksheet.pdf)te gebruiken.
 nl-NL : teacher.teacher_quest_wakka_maul_100_step1
-Zorg dat in ieder geval 75% van in ieder geval één klas door Wakka Maulheen komt.
+Zorg dat in ieder geval 75% van in ieder geval één klas door __Wakka Maul__heen komt.
 nl-NL 12
 ja 0
 nb : new_home.top_screenshots_hint
-Elever skriver kode og ser endringene deres i sanntid
+Eveler skriver kode og ser endringene deres i santid
 nb : new_home.getting_students
-Det er viktig å få elevene til å bruke ekte kode tidlig for å lære programmeringssyntaks og god struktur.
+Det er viktig å få elevene til å bruke ekte kode tidlig for å lære programmeringssyntax og god struktur.
 nb : new_home.struggle
-produktivt strev
+productivt strev
 nb : new_home.view_progress
-Vis framgang
+Vis Framgang
 nb : play.skills_granted
-Gir evnene
+Gir Evnene
 nb : play.change_hero
-Bytt helt
+Bytt Helt
 nb : play.buy_gems
-Kjøp juveler
+Kjøp Juveler
 nb : play.anonymous
-Anonym spiller
+Anonym Spiller
 nb : play.awaiting_levels_adventurer
-Registrer deg som eventyrer
+Registrer deg som Eventyrer
 nb : login.email_or_username
-E-post eller brukernavn
+Epost eller brukernavn
 nb : signup.email_announcements
-Motta kunngjøringer på e-post
+Motta kunngjøringer på epost
 nb : signup.creating
-Oppretter konto...
+Oppretter Konto...
 nb : signup.account_exists
-Denne e-post er allerede i bruk:
+Denne emailen er allerede i bruk:
 nb : signup.email_good
-E-post ser bra ut!
+Email ser bra ut!
 nb : signup.name_is_email
-Du kan ikke ha en e-post som brukernavn
+Du kan ikke ha en email som brukernavn
 nb : signup.student_type_3
-Konkurranser i arenaer
+Konkuranser i arenaer
 nb : signup.individuals_or_parents
-Private & foreldre
+Private & Foreldre
 nb : signup.enter_parent_email
-Foreldres e-postaddresse:
+Foreldres epostaddresse:
 nb : signup.parent_email_error
-Noe gikk galt mens vi sendte e-posten. Sjekk addressen og prøv igjen.
+Noe gikk galt mens vi sendte emailen. Sjekk addressen og prøv igjen.
 nb : recover.recover_account_title
-Tilbakestill passord
+Tilbakestill Passord
 nb : recover.recovery_sent
-E-post sendt.
+Epost sendt.
 nb : common.submit_patch
-Lever en patch
+Lever en Patch
 nb : common.submit_changes
-Lever endringer
+Lever Endringer
 nb : general.email
-E-post
+Epost
 nb : play_level.victory_sign_up
-Tegn deg på for oppdateringer
+Tegn deg på for Oppdateringer
 nb : play_level.victory_sign_up_poke
-Vil du ha siste nytt på e-post? Opprett en gratis konto, så vil vi holde deg oppdatert!
+Vil du ha siste nytt på epost? Opprett en gratis konto, så vil vi holde deg oppdatert!
 nb : play_level.victory_go_home
-Gå hjem
+Gå Hjem
 nb : play_level.victory_hour_of_code_done_yes
-Ja, jeg er ferdig med min kodetime!
+Ja, jeg er ferdig med min Kodetime!
 nb : play_level.victory_experience_gained
-XP opparbeidet
+XP Opparbeidet
 nb : play_level.victory_become_a_viking
-Bli en viking
+Bli en Viking
 nb : play_level.tome_your_skills
-Dine ferdigheter
+Dine Ferdigheter
 nb : play_level.loading_start
-Start brett
+Start Brett
 nb : play_level.non_user_code_problem_title
-Klarer ikke å laste inn nivået
+Klarer ikke å laste inn Nivået
 nb : play_level.infinite_loop_reset_level
-Tilbakestill nivå
+Tilbakestill Nivå
 nb : inventory.equipped_item
-I bruk
+I Bruk
 nb : inventory.restricted
-(ikke tilgjengelig på dette brettet)
+(Ikke tilgjengelig på dette brettet)
 nb : subscribe.comparison_blurb
-Spiss dine kunnskaper med et CodeCombat-abonnement!
+Spiss dine kunnskaper med et CodeCombat abonnement!
 nb : choose_hero.choose_hero
-Velg din helt
+Velg Din Helt
 nb : choose_hero.programming_language_description
-Hvilket programmeringsspråk vil du bruke?
+Hvilket programmeringsspråk vil du bruke??
 nb : choose_hero.javascript_blurb
-Språket som brukes på websider (ikke det samme som Java)
+Språket som brukes på websider. (Ikke det samme som Java.)
 nb : choose_hero.coffeescript_blurb
-Hyggeligere JavaScript-syntaks.
+Hyggeligere JavaScript syntaks.
 nb : choose_hero.available_for_purchase
-Kan kjøpes
+Kan Kjøpes
 nb : about.story_statistic_1a
-20,000,000+
+5,000,000+
 nb : about.story_statistic_2b
-190+ land
+200+ land
 nb : contact.welcome
-Vi setter pris på å høre fra deg! Bruk dette skjemaet for å sende oss en e-post.
+Vi setter pris på å høre fra deg! Bruk dette skjemaet for å sende oss en epost.
 nb : account_settings.wrong_email
-Feil e-post
+Feil Email
 nb : account_settings.wrong_password
-Feil passord
+Feil Passord
 nb : account_settings.emails_tab
-E-post
+Epost
 nb : account_settings.email_subscriptions
-E-postabonnement
+Epost Abonnement
 nb : account_settings.email_subscriptions_none
-Ingen e-postabonnement.
+Ingen Epost Abonnement.
 nb : account_settings.email_announcements_description
-Få e-post om siste nytt og utvikling fra CodeCombat.
+Få epost om siste nytt og utvikling fra CodeCombat.
 nb : account_settings.email_notifications_summary
-Innstillinger for personlige, automatiske e-postvarsler relatert til din CodeCombat aktivitet.
+Innstillinger for personlige, automatiske epostvarsler relatert til din CodeCombat aktivitet.
 nb : account_settings.contributor_emails
-E-post for bidragsyter-klasser
+Epost for bidragsyter-klasser
 nb : clans.average_level
-Gjennomsnittlig nivå
+Gjennomsnittlig Nivå
 nb : editor.level_completion
-Komplett nivå
+Komplett Nivå
 nb : contribute.alert_account_message
-For å abonnere på klasse-e-poster må du være logget inn først.
+For å abonnere på klasse-eposter må du være logget inn først.
 nb : contribute.join_desc_2
-for å komme i gang, og kryss av i boksen nedenfor for å merke deg selv som en modig Erketrollmann og få de siste nyhetene på e-post. Vil du prate med oss om hva du kan gjøre og hvordan du kan involvere deg mer? 
+for å komme i gang, og kryss av i boksen nedenfor for å merke deg selv som en modig Erketrollmann og få de siste nyhetene på epost. Vil du prate med oss om hva du kan gjøre og hvordan du kan involvere deg mer? 
 nb : contribute.join_url_email
-Send oss en e-post
+Send oss en epost
 nb : contribute.archmage_subscribe_desc
-Få e-post om nye muligheter til å kode og kunngjøringer.
+Få epost om nye muligheter til å kode og kunngjøringer.
 nb : contribute.artisan_subscribe_desc
-Få e-post om oppdateringer i brett-editoren og kunngjøringer.
+Få epost om oppdateringer i brett-editoren og kunngjøringer.
 nb : contribute.adventurer_join_pref
-Finn (eller rekrutter!) en Artisan og jobb sammen med dem, eller kryss av i boksen under for å motta e-post når det er nye brett som må testes. Vi poster også om brett som trenger testing på nettverkene våre, som
+Finn (eller rekrutter!) en Artisan og jobb sammen med dem, eller kryss av i boksen under for å motta epost når det er nye brett som må testes. Vi poster også om brett som trenger testing på nettverkene våre, som
 nb : contribute.adventurer_subscribe_desc
-Få e-post når det er nye brett som må testes.
+Få epost når det er nye brett som må testes.
 nb : contribute.scribe_subscribe_desc
-Få e-post om kunngjøringer relatert til artikkelskriving.
+Få epost om kunngjøringer relatert til artikkelskriving.
 nb : contribute.diplomat_subscribe_desc
-Få e-post om i18n oppdateringer og nye brett som må oversettes.
+Få epost om i18n oppdateringer og nye brett som må oversettes.
 nb : contribute.ambassador_introduction
-Det er et felleskap vi prøver å bygge her, og dere er bindeleddene. Vi har forum, chat, e-post, og sosiale nettverk med mange mennesker å snakke med, og hjelpe til å bli bedre kjent med spillet, og lære fra. Hvis du vil hjelpe folk å bli mer involvert og ha det gøy, og får en god følelse av stemningen i CodeCombat og hva vi prøver å få til, da er denne klassen kanskje for deg..
+Det er et felleskap vi prøver å bygge her, og dere er bindeleddene. Vi har forum, chat, epost, og sosiale nettverk med mange mennesker å snakke med, og hjelpe til å bli bedre kjent med spillet, og lære fra. Hvis du vil hjelpe folk å bli mer involvert og ha det gøy, og får en god følelse av stemningen i CodeCombat og hva vi prøver å få til, da er denne klassen kanskje for deg..
 nb : contribute.ambassador_subscribe_desc
-Få e-post om oppdateringer relatert til brukerstøtte.
+Få epost om oppdateringer relatert til brukerstøtte.
 nb : account.status_unsubscribed
-Få tilgang til nye nivåer, helter, gjenstander og flere juveler med et CodeCombat-abonnement!
+Få tilgang til nye nivåer, helter, gjenstander, og bonus gems med et CodeCombat abonnement!
 nb : loading_error.error
-FEIL
+ERROR
 nb : legal.email_title
-E-post
+Epost
 nb : legal.email_settings_url
-e-postinnstillingene dine
+epost-innstillingene dine
 nb : legal.email_description_suffix
-eller via linker i e-postene vi sender til deg, kan du endre hvilke e-poster du ønsker å motta og enkelt avslutte abonnementet når som helst.
+eller via linker i epostene vi sender til deg, kan du endre hvilke eposter du ønsker å motta og enkelt avslutte abonnementet når som helst.
 nb 71
 nn 0
 uz 0
 pl : new_home.slogan
-Najbardziej angażujący sposób na naukę informatyki!
+Najlepsza gra do nauki programowania!
 pl : new_home.forgot_learning
-Myślę, że zapomnieli już, że się czegokolwiek uczyli.
+Moi uczniowie tak bardzo wciągneli się w grę, aż zapomnieli że właśnie uczą się programowania.
 pl : new_home.computer_science
-Nasze kursy można wykonywać we własnym tempie i obejmują podstawoą składnię i zaawansowane koncepcje 
+Lekcje informatyki dla osób w każdym wieku.
 pl : buy_gems.prompt_title
-Niewystarczająca ilość kryształów!
+Za mało klejnotów
 pl : buy_gems.prompt_body
-Weź Premium, aby zdobyć kryształy i dostać się do jeszcze większej ilości poziomów!
+Chcesz zdobyć więcej?
 pl : about.story_statistic_1a
-Ponad 20,000,000
+Ponad 5,000,000
 pl : about.story_statistic_2b
-ponad 190 krajów
+ponad 200 krajów
 pl : teacher.teacher_quest_teach_methods_step1
-Niech przynajmniej 75% jednej klasy przejdzie pierwszy poziom, Dungeons of Kithgard
+Niech przynajmniej 75% jednej klasy przejdzie pierwszy poziom, __Dungeons of Kithgard__
 pl : teacher.teacher_quest_teach_methods_step2
-Wydrukuj [Krótki przewodnik ucznia](https://files.codecombat.com/docs/resources/StudentQuickStartGuide.pdf) z [Bazy wiedzy](/teachers/resources).
+Wydrukuj [Krótki przewodnik ucznia](http://files.codecombat.com/docs/resources/StudentQuickStartGuide.pdf) z [Bazy wiedzy](/teachers/resources).
 pl : teacher.teacher_quest_teach_strings_step1
-Niech przynajmniej 75% jednej klasy dotrze do True Names
+Niech przynajmniej 75% jednej klasy dotrze do __True Names__
 pl : teacher.teacher_quest_teach_strings_step2
-Użyj przeglądarki poziomów w [Przewodnikach po kursach](/teachers/courses) i przeglądnij poziom True Names.
+Użyj przeglądarki poziomów w [Przewodnikach po kursach](/teachers/courses) i przeglądnij poziom __True Names__.
 pl : teacher.teacher_quest_teach_loops_step1
-Niech przynajmniej 75% jednej klasy dotrze do Fire Dancing.
+Niech przynajmniej 75% jednej klasy dotrze do __Fire Dancing__.
 pl : teacher.teacher_quest_teach_variables_step1
-Niech przynajmniej 75% jednej klasy dotrze do Known Enemy.
+Niech przynajmniej 75% jednej klasy dotrze do __Known Enemy__.
 pl : teacher.teacher_quest_kithgard_gates_100_step1
-Niech przynajmniej 75% jednej klasy dotrze do Kithgard Gates.
+Niech przynajmniej 75% jednej klasy dotrze do __Kithgard Gates__.
 pl : teacher.teacher_quest_wakka_maul_100_step1
-Niech przynajmniej 75% jednej klasy dotrze do Wakka Maul.
+Niech przynajmniej 75% jednej klasy dotrze do __Wakka Maul__.
 pl 15
 ro : new_home.built_for_teachers_title
-Un joc de programare dezvoltat cu gândul la profesori.
+Un joc de programare dezvoltat cu gandul la profesori.
 ro : new_home.built_for_teachers_subblurb1
-Începând de la cursul nostru gratuit de Introducere în Informatică, studenții își însușesc concepte de bază în programare, cum ar fi bucle while/for, funcții și algoritmi.
+Începând cu cursul nostru gratuit de Introducere în Informatică, studenții însușesc concepte de baza în programare, cum ar fi bucle while/for, funcții și algoritmi.
 ro : new_home.im_a_teacher
-Sunt profesor
+Sunt Profesor
 ro : new_home.im_a_student
-Sunt elev
+Sunt Student
 ro : new_home.gaming_is_good
-Studiile sugerează că jocurile sunt bune pentru creierul copiilor. (E adevarat!)
+Studiile sugerează că jocurile sunt bune pentru creierul copiilor. (e adevarat!)
 ro : modal.close
-Închide
+Inchide
 ro : diplomat_suggestion.title
-Ajută la traducrea CodeCombat!
+Ajută-ne să traducem CodeCombat!
 ro : diplomat_suggestion.pitch_body
-CodeCombat este dezvoltat în limba engleza , dar deja avem jucători din toate colțurile lumii. Mulți dintre ei vor să joace în română și nu vorbesc engleză. Dacă poți vorbi ambele limbi te rugăm să te gândești dacă ai dori să devi un Diplomat și să ne ajuți sa traducem atât jocul cât și site-ul.
+CodeCombat este dezvoltat in limba engleza , dar deja avem jucatări din toate colțurile lumii. Mulți dintre ei vor să joace in română și nu vorbesc engleză. Dacă poți vorbi ambele te rugăm să te gândești dacă ai dori să devi un Diplomat și să ne ajuți sa traducem atât jocul cât și site-ul.
 ro : diplomat_suggestion.missing_translations
-Până când nu putem traduce totul în Română, vei vedea limba engleză acolo unde limba română nu este displonibilă.
+Until we can translate everything into Romanian, you'll see English when Romanian isn't available.
 ro : play.play_as
-Joacă ca
+Alege-ți echipa
 ro : play.items
-Articole
+Iteme
 ro : play.available
-Disponibile
+Valabile
 ro : play.skills_granted
-Abilități acordate
+Skill-uri acordate
 ro : play.buy_gems
-Cumpără pietre prețioase
+Cumpără Pietre Prețioase
 ro : play.campaign_multiplayer_description
-... în care lupți cot-la-cot contra alți jucători.
+... în care te lupți cap-la-cap contra alți jucători.
 ro : share_progress_modal.email_invalid
-Adresă e-mail invalidă.
+Adresă Email invalidă.
 ro : share_progress_modal.form_label
-Adresă e-mail
+Adresă Email
 ro : share_progress_modal.placeholder
-adresă e-mail
+adresă email
 ro : login.email_or_username
-E-mail sau nume de utilizator
+Email sau nume de utilizator
 ro : login.log_in
-Conectare
+Log In
 ro : login.log_out
-Deconectare
+Log Out
 ro : login.sign_in_with_gplus
-Conectați-vă cu Google
+Conectați-vă cu G+
 ro : signup.create_student_header
-Creează cont elev
+Creează cont student
 ro : signup.create_individual_header
-Creează cont individual
+Creează cont profesor un cont individual
 ro : signup.email_announcements
-Primește anunțuri despre niveluri și îmbunătățiri ale CodeCombat!
+Primește notificări prin email
 ro : signup.sign_in_to_continue
-Conectează-te sau creează un cont pentru a continua
+Conecteaza-te sau creează un cont pentru a continua
 ro : signup.log_in
-conectează-te cu parolă
+loghează-te cu parola
 ro : signup.required
-Trebuie să te înregistrezi înaite să mergi mai departe.
+Trebuie să te înregistrezi înaite să parcurgi acest drum.
 ro : signup.student_type_4
-Alege eroul!
+Alege-ți eroul!
 ro : recover.recovery_sent
-E-mail de recuperare trimis.
+Email de recuperare trimis.
 ro : items.books
-Cărți
+Cărti
 ro : common.back
-Înapoi
+Inapoi
 ro : common.coming_soon
-în curând!
+In curand!
 ro : common.next
-Următor
+Urmator
 ro : common.retry
-Reîncearcă
+Reîncearca
 ro : common.submit_patch
-Trimite Patch
+Înainteaza Patch
 ro : common.save_changes
-Salvează modificări
+Salveaza modificări
 ro : general.withdrawn
-Retras
+Retrage
 ro : general.accept
-Acceptă
+Accepta
 ro : general.accept_and_save
-Acceptă și salvează
+Acceptă și Salvează
 ro : general.play_preview
-Joaca previzualizarea nivelului curent
+Joaca previzualizarea nivelului actual
 ro : general.email
-E-mail
+Email
 ro : general.password
-Parolă
+Parola
 ro : general.last_initial
-Inițială nume
+Inițiala nume
 ro : general.contact_us
-Contactează-ne
+Contacteaza-ne
 ro : general.fewer
-Mai puțin
+Mai putin
 ro : play_level.done
-Terminat
+Gata
 ro : play_level.skip
-Sări peste
+Sari peste
 ro : play_level.reload
-Reîncarcă
+Reîncarca
 ro : play_level.reload_confirm
-Reîncarca tot
+Reîncarca Tot
 ro : play_level.victory_sign_up_poke
-Vrei să-ți salvezi codul? Crează un cont gratuit!
+Vrei să-ți salvezi codul? Crează un cont gratis!
 ro : play_level.victory_rate_the_level
-Cât de amuzant a fost acest nivel?
+Apreciază nivelul: 
 ro : play_level.victory_return_to_ladder
-Înapoi la clasament
+Înapoi la jocurile de clasament
 ro : play_level.victory_go_home
-Mergi acasă
+Acasă
 ro : play_level.victory_gems_gained
-Ai câștigat pietre prețioase
+Ai câștigat Pietre Prețioase
 ro : play_level.victory_new_item
-Articol nou
+Item nou
 ro : play_level.victory_viking_code_school
-Wow, acesta a fost un nivel greu! Daca nu ești deja un dezvoltator de software, ar trebui să fi. Tocmai ai fost selectat pentru acceptare în Viking Code School, unde poți să îți dezvolți abilitățile la nivelul următor și să devi un dezvoltator web profesionist în 14 săptămâni.
+Wow, ăla a fost un nivel greu! Daca nu ești deja un dezvoltator de software, ar trebui să fi. Tocmai ai fost selectat pentru acceptare in Viking Code School, unde poți sa iți dezvolți abilitățile la nivelul următor și să devi un dezvoltator web profesionist în 14 săptămâni.
 ro : play_level.victory_become_a_viking
-Devin-o Viking
+Devino Viking
 ro : play_level.tome_cast_button_run
-Execută
+Ruleaza
 ro : play_level.tome_cast_button_running
-În execuție
+In Derulare
 ro : play_level.tome_cast_button_ran
-S-a executat
+A rulat
 ro : play_level.tome_reload_method
-Reîncarcă codul original pentru a restarta nivelul
+Reîncarcă cod original, pentru această metodă
 ro : play_level.tome_your_skills
-Abilitățile tale
+Skillurile tale
 ro : play_level.code_saved
-Cod salvat
+Cod Salvat
 ro : play_level.skip_tutorial
-Sări peste (esc)
+Sari peste (esc)
 ro : play_level.loading_start
-Începe nivel
+Începe Level
 ro : play_level.time_goto
-Mergi la:
+Dute la:
 ro : play_level.non_user_code_problem_title
-Imposibil de încărcat nivel
+Imposibil de încărcat Nivel
 ro : play_level.infinite_loop_description
-Codul inițial pentru a construi lumea nu a terminat de rulat niciodată. Este, probabil, ori foarte lent sau are o buclă infinită. Sau ar putea fi o eroare de programare. Puteți încerca să executați acest cod din nou sau resetați codul la starea implicită. Dacă nu se remediază, vă rugăm să ne anunțați.
+Codul initial pentru a construi lumea nu a terminat de rulat. Este, probabil, foarte lent sau are o buclă infinită. Sau ar putea fi un bug. Puteți încerca acest cod nou sau resetați codul la starea implicită. Dacă nu-l repara, vă rugăm să ne anunțați.
 ro : play_level.check_dev_console
-Puteți deschide, de asemenea, consola de dezvoltator pentru a vedea ce ar putea merge greșit.
+Puteți deschide, de asemenea, consola de dezvoltator pentru a vedea ce ar putea merge gresit.
 ro : play_level.infinite_loop_reset_level
-Resetează nivelul
+Resetează Nivelul
 ro : play_level.infinite_loop_comment_out
-Comentează codul meu
+Comentează Codul
 ro : play_level.tip_toggle_play
-schimbă între joacă/pauză cu Ctrl+P.
+Pune sau scoate pauza cu Ctrl+P.
 ro : play_level.tip_scrub_shortcut
-Utilizează Ctrl+[ și Ctrl+] pentru a derula înapoi sau a da pe repede înainte.
+Înapoi și derulare rapidă cu Ctrl+[ and Ctrl+].
 ro : play_level.tip_guide_exists
-Apasă pe ghid, din meniul jocului (din partea de sus a paginii), pentru informații utile.
+Apasă pe ghidul din partea de sus a pagini pentru informații utile.
 ro : play_level.tip_open_source
-CodeCombat este parte a comunității open source!
+CodeCombat este 100% open source!
 ro : play_level.tip_beta_launch
-CodeCombat a fost lansat în format beta în Octombrie 2013.
+CodeCombat a fost lansat beta in Octombrie 2013.
 ro : play_level.tip_theory_practice
-Teoretic nu este nici o diferență înte teorie și practică. Dar în practică este. - Yogi Berra
+Teoretic nu este nici o diferență înte teorie și practică. Dar practic este. - Yogi Berra
 ro : play_level.tip_debugging_program
-Dacă a face debugging este procesul de a elimina erorile, atunci a programa este procesul de a introduce erori. - Edsger W. Dijkstra
+Dacă a face debuggin este procesul de a scoate bug-uri, atunci a programa este procesul de a introduce bug-uri. - Edsger W. Dijkstra
 ro : play_level.tip_forums
-Mergi la forum și spune-ți părerea!
+Intră pe forum și spune-ți părerea!
 ro : play_level.tip_morale_improves
-Încărcarea va continua până când moralul se va îmbunătăți.
+Se va încărca până până când va crește moralul.
 ro : play_level.tip_all_species
-Noi credem în șanse egale pentru toate speciile în a învăța programare.
+Noi credem în șanse egale de a învăța programare pentru toate speciile.
 ro : play_level.tip_great_responsibility
-Cu o mare abilitate de programare vine și o mare responsabilitate de debugging.
+Cu o mare abilitate mare de programare vine o mare responsabilitate de debugging.
 ro : play_level.tip_munchkin
-Dacă nu iți mănânci legumele, un munchkin va veni după tine când dormi.
+Daca nu iți mananci legumele, un munchkin va veni după tine cand dormi.
 ro : play_level.tip_binary
-Sunt doar 10 tipuri de oameni în lume: cei ce înteleg sistemul binar, și ceilalți.
+Sunt doar 10 tipuri de oameni in lume: cei ce îteleg sistemul binar, si ceilalți.
 ro : play_level.tip_commitment_yoda
-Un programator trebuie să aibă cel mai profund angajament, mintea cea mai serioasă. ~Yoda
+Un programator trebuie să aiba cel mai profund angajament, si mintea cea mai serioasă. ~Yoda
 ro : play_level.tip_no_try
-A face. Sau a nu face. Nu există voi încerca. ~Yoda
+Fă. Sau nu mai face. Nu exista voi încerca. ~Yoda
 ro : play_level.tip_documented_bug
-O eroare (bug) documentată nu e chiar o eroare; este o caracteristică.
+Un bug documentat nu e chiar un bug; este o caracteristica.
 ro : play_level.tip_impossible
-Mereu pare imposibil până când e gata. ~Nelson Mandela
+Mereu pare imposibil până e gata. ~Nelson Mandela
 ro : play_level.tip_talk_is_cheap
-Vorbele sunt goale. Arată-mi codul. ~Linus Torvalds
+Vorbele sunt ieftine. Arată-mi codul. ~Linus Torvalds
 ro : play_level.tip_hardware_problem
-Întrebare: De câți programatori ai nevoie ca să schimbi un bec? Răspuns: Niciunul, e o problemă de hardware.
+Î: De cați programatori ai nevoie ca să schimbi un bec? R: Niciunul, e o problemă hardware.
 ro : play_level.tip_hofstadters_law
-Legea lui Hofstadter: Mereu durează mai mult decât te aștepți, chiar dacă iei în considerare Legea lui Hofstadter.
+Legea lui Hofstadter: Mereu dureaza mai mult decât te aștepți, chiar dacă iei în considerare Legea lui Hofstadter.
 ro : play_level.tip_extrapolation
-Există doar două feluri de oameni: cei care pot extrapola din date incomplete...
+Există două feluri de oameni: cei care pot extrapola din date incomplete...
 ro : play_level.tip_control_destiny
-În open source, ai dreptul de a-ți controla propiul destin. ~Linus Torvalds
+In open source, ai dreptul de a-ți controla propiul destin. ~Linus Torvalds
 ro : play_level.tip_no_code
-Niciun cod nu e mai rapid decat niciun cod.
+Nici-un cod nu e mai rapid decat niciun cod.
 ro : play_level.tip_hate_computers
-Tocmai aia e problema celor care cred că urăsc calulatoarele. Ceea ce urăsc ei de fapt sunt programatorii nepricepuți. ~Larry Niven
+Tocmai aia e problema celor ce urăsc calulatoarele, ei defapt urăsc programatorii nepricepuți. ~Larry Niven
 ro : play_level.tip_free_your_mind
-Trebuie sa lași totul, Neo. Frica, îndoiala și necredința. Eliberează-ți mintea. ~Morpheus
+Trebuie sa lași totul, Neo. Frica, Îndoiala și necredința. Eliberează-ți mintea. ~Morpheus
 ro : game_menu.auth_tab
-Înscriere
+Înscriete
 ro : game_menu.inventory_caption
-Echipează-ți eroul
+Echipeazăți Eroul
 ro : game_menu.choose_hero_caption
-Alege eroul, limba
+Alege Eroul, limbajul
 ro : game_menu.guide_caption
-Documentație și sfaturi
+Documentație si sfaturi
 ro : game_menu.multiplayer_caption
-Joacă cu prieteni!
+Joaca cu prieteni!
 ro : leaderboard.view_other_solutions
-Vizualizează tabelul de clasificare
+Vizualizează Tabelul de Clasificare
 ro : leaderboard.top_players
-Top Jucători după
+Top Jucători
 ro : leaderboard.day
-Azi
+Astăzi
 ro : leaderboard.week
-Săptămâna aceasta
+Săptămâna Aceasta
 ro : leaderboard.all
-Tot timpul
+Tot Timpul
 ro : leaderboard.damage_taken
-Vătămare primită
+Damage Primit
 ro : leaderboard.damage_dealt
-Vătămare oferită
+Damage Oferit
 ro : leaderboard.gold_collected
-Aur colectat
+Aur Colectat
 ro : leaderboard.survival_time
-Supraviețuit
+Supravietuit
 ro : inventory.available_item
-Disponibil
+Valabil
 ro : inventory.restricted
-(restricționat în acest nivel)
+(în acest nivel)
 ro : buy_gems.few_gems
-Căteva pietre prețioase
+Căteva Pietre Prețioase
 ro : buy_gems.pile_gems
-Morman de pietre prețioase
+Un morman de Pietre Prețioase
 ro : buy_gems.chest_gems
-Cufăr cu pietre prețioase
+Un cufăr de Pietre Prețioase
 ro : buy_gems.prompt_title
-Nu sunt destule pietre prețioase.
+Nu sunt destule Pietre Prețioase.
 ro : buy_gems.prompt_body
-Vrei să cumperi mai multe mai multe?
+Vrei mai multe?
 ro : buy_gems.recovered
-Pietre prețioase cumpărate anterior recuperate. Vă rugăm să reîncărcați pagina.
+Pietre Prețioase cumpărate anterior recuperate.Va rugăm să dați refresh la pagină.
 ro : buy_gems.buy_premium
-Cumpără premium
+Cumpara Premium
 ro : subscribe_for_gems.prompt_body
-Abonează-te la Premium pentru a obține pietre prețioase și pentru a accesa chiar mai multe niveluri!
+Abonează-te la Premium pentru a obține pietre prețioase și pentru a accesa chiar mai multe nivele!
 ro : earn_gems.prompt_body
-Continuă să joci pentru a câștiga mai multe!
+Continuă să joci pentru a câștiga mai mult!
 ro : subscribe.comparison_blurb
-Devin-o un Master Coder - abonează-te la varianta <b>Premium</b> azi! 
+Îmbunătățește-ți abilitățile cu abonamentul CodeCombat
 ro : subscribe.subscribe_title
-Abonare
+Abonează-te
 ro : subscribe.unsubscribe
-Dezabonare
+Dezabonează-te
 ro : subscribe.confirm_unsubscribe
-Confirmă dezabonarea
+Confirmă Dezabonarea
 ro : subscribe.thank_you
-Mulțumim pentru susținerea CodeCombat!
+Mulțumim pentru susținerea jocului CodeCombat!
 ro : subscribe.stripe_description
-Abonament lunar
+Abonament Lunar
 ro : subscribe.personal_sub
-Abonament personal
+Abonament Personal
 ro : subscribe.currently_free
-În prezent ai un abonament gratuit
+Ai un abonament gratuit
 ro : subscribe.currently_free_until
-În prezent ai un abonament până pe
+Ai un abonament gratuit până pe
 ro : subscribe.subscribe_prepaid
-Apasă pe abonare pentru a folosi un cod preplătit
+Dă Click pe Abonare pentru a folosi un cod prepaid
 ro : subscribe.using_prepaid
-Foloseste cod preplătit pentru un abonament lunar
+Foloseste codul prepaid pentru un abonament lunar
 ro : subscribe.feature_level_access
-Accesează peste 500+ de nivele disponibile
+Accesează peste 300 de nivele disponibile
 ro : subscribe.feature_heroes
-Deblochează eroi exclusivi și animale de companie
+Deblochează eroi exclusivi și personaje
 ro : subscribe.first_month_price
-Doar $__price__ pentru prima lună!
+Doar $__price__ pentru prima luna!
 ro : choose_hero.choose_hero
-Alege eroul
+Alege Eroul
 ro : choose_hero.programming_language
-Limbaj de programare
+Limbaj de Programare
 ro : choose_hero.python_blurb
-Simplu dar puternic, minunat atât pentru începători cât și pentru experți
+Simplu dar puternic, Python este un limbaj de uz general extraordinar!
 ro : choose_hero.javascript_blurb
-Limbajul web-ului. (Nu este același lucru ca Java.)
+Limbajul web-ului.
 ro : choose_hero.weapons_warrior
-Săbii - Distanță scurtă, Fără magie
+Săbii - Distanță Scurtă, Fără Magie
 ro : choose_hero.weapons_ranger
-Arbalete, Pistoale - Distanță mare, Fără magie
+Arbalete, Arme - Distanță Mare, Fără Magie
 ro : choose_hero.weapons_wizard
-Baghete, Toiage - Distanță mare, Magie
+Baghete, Toiage, - Distanță Mare, Și Magie
 ro : choose_hero.attack
-Atac
+Attack
 ro : choose_hero.skills
-Abilități
+Skilluri
 ro : choose_hero.attack_2
-din cele listate
+of listed
 ro : choose_hero.health_2
-din cele listate
+of listed
 ro : choose_hero.health_3
-Stare armură.
+Armură.
 ro : choose_hero.speed_1
-Se deplasează cu
+Se mișcă cu
 ro : choose_hero.level_to_unlock
-Nivel ce trebuie deblocat:
+Pentru deblocare termină nivelul:
 ro : choose_hero.restricted_to_certain_heroes
-Numai anumiți eroi pot juca acest nivel.
+Numai anumiți eroi pot juca acest nivel
 ro : skill_docs.action_cooldown
-Durează
+Ține
 ro : skill_docs.action_range
-Raza de acțiune
+Rază de acțiune
 ro : skill_docs.action_radius
-Raza
+Rază
 ro : skill_docs.action_duration
-Durata
+Durată
 ro : skill_docs.current_value
-Valoare curentă
+Valoare Curentă
 ro : skill_docs.default_value
-Valoare implicită
+Valoare Implicită
 ro : options.music_description
-Oprește/pornește muzica din fundal.
+Oprește Muzica din fundal.
 ro : options.editor_config_title
-Configurare editor
+Configurare Editor
 ro : options.editor_config_livecompletion_label
-Autocompletare live
+Autocompletare Live
 ro 160
 sr : about.story_statistic_1a
-Више од 20.000.000
+Више од 5.000.000
 sr : about.story_statistic_2b
-преко 190 земаља
+преко 200 земаља
 sr : teacher.teacher_quest_teach_methods_step1
-Добиј 75% од најмање једног часа путем првог нивоа, Dungeons of Kithgard
+Добиј 75% од најмање једног часа путем првог нивоа, __Dungeons of Kithgard__
 sr : teacher.teacher_quest_teach_methods_step2
-Одштампај [Водич за брзи почетак за ученика](https://files.codecombat.com/docs/resources/StudentQuickStartGuide.pdf) из ресурса.
+Одштампај [Водич за брзи почетак за ученика](http://files.codecombat.com/docs/resources/StudentQuickStartGuide.pdf) из ресурса.
 sr : teacher.teacher_quest_teach_strings_step1
-Добиј 75% од најмање једног часа путем True Names
+Добиј 75% од најмање једног часа путем __True Names__
 sr : teacher.teacher_quest_teach_strings_step2
-Користи бирач нивоа за наставника на [Водичи за курсеве](/teachers/courses) страни за преглед True Names.
+Користи бирач нивоа за наставника на [Водичи за курсеве](/teachers/courses) страни за преглед __True Names__.
 sr : teacher.teacher_quest_teach_loops_step1
-Добиј 75% од најмање једног часа путем Fire Dancing.
+Добиј 75% од најмање једног часа путем __Fire Dancing__.
 sr : teacher.teacher_quest_teach_loops_step2
-Користи Loops Activity у [CS1 Водич за наставни план](/teachers/resources/cs1) да појачаш концепт.
+Користи __Loops Activity__ у [CS1 Водич за наставни план](/teachers/resources/cs1) да појачаш концепт.
 sr : teacher.teacher_quest_teach_variables_step1
-Добиј 75% oд најмање једног часа путем Known Enemy.
+Добиј 75% oд најмање једног часа путем __Known Enemy__.
 sr : teacher.teacher_quest_kithgard_gates_100_step1
-Добиј 75% од најмање једног часа путем Kithgard Gates.
+Добиј 75% од најмање једног часа путем __Kithgard Gates__.
 sr : teacher.teacher_quest_kithgard_gates_100_step2
-Упути ученике како да размишљају о тешким проблемима користећи [Вежбанка за циклус инжењерства](https://files.codecombat.com/docs/resources/EngineeringCycleWorksheet.pdf).
+Упути ученике како да размишљају о тешким проблемима користећи [Вежбанка за циклус инжењерства](http://files.codecombat.com/docs/resources/EngineeringCycleWorksheet.pdf).
 sr : teacher.teacher_quest_wakka_maul_100_step1
-Добиј 75% од најмање једног часа за Wakka Maul.
+Добиј 75% од најмање једног часа за __Wakka Maul__.
 sr 12
 sk : about.story_statistic_1a
-20,000,000+
+5,000,000+
 sk : about.story_statistic_2b
-v 190+ krajinách
+v 200+ krajinách
 sk 2
 sl 0
 fi 0
 sv : new_home.perform_at_higher_level
-genomföra en högre nivå av prestation
+Genomför en högre nivå av prestation
 sv 1
 th : new_home.slogan
-วิธีที่น่าสนใจที่สุดในการเรียนรู้วิทยาศาสตร์คอมพิวเตอร์
+วิธีที่ดึงดูดใจที่สุดในการเรียนเขียนโปรแกรม
 th 1
 tr 0
 uk : about.story_statistic_1a
-20 000 000+
+5 000 000+
 uk : about.story_statistic_2b
-190+ країн
+200+ країн
 uk 2
 ur 0
 vi : nav.play
-Chơi
+Chơi!!
 vi : modal.okay
-Đồng ý
+OK
 vi : not_found.page_not_found
-Không tìm thấy trang này
+Không tìm thấy trang
 vi : login.sign_in_with_gplus
-Đăng nhập với Google
+Đăng nhập với G+
 vi : login.signup_switch
-Tạo tài khoản mới?
+Bạn muốn tạo tài khoản mới?
 vi : signup.create_student_header
-Tạo tài khoản Học sinh
+Tạo tài khoản là Học Sinh
 vi : signup.create_teacher_header
-Tạo tài khoản Giáo viên
+Tạo tài khoản là Giáo Viên
 vi : general.username
-Tên đăng nhập
+Username
 vi : play_level.game_menu
-Tuỳ chọn
+Game menu
 vi : choose_hero.attack_3
-.
+sát thương vũ khí.
 vi : choose_hero.health_3
-.
+giáp.
 vi : about.story_statistic_1a
-20,000,000+
+5,000,000+
 vi : about.story_statistic_2b
-190+ quốc gia
+200+ quốc gia
 vi : concepts.arguments
-Tham số
+Đối số
 vi : concepts.arithmetic
-Tính toán
+Toán tử
 vi : concepts.if_statements
-Lệnh If
+Câu lệnh If
 vi : concepts.boolean_logic
-Toán tử logic
+Luận lý Boolean
 vi 17
 zh-WUU-HANS 0
 zh-WUU-HANT 0
